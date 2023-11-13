@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-
+st.set_page_config(layout="wide")
 # Set the directory where your Excel files are stored
 directory = 'Excel'
 
@@ -10,6 +10,7 @@ suppliers = ['Deme', 'GroundService', 'Gunsight', 'Knight', 'Onyx', 'Overture', 
 
 # Sidebar - Supplier selection
 selected_supplier = st.sidebar.selectbox('Select a Supplier', suppliers)
+
 
 # Main panel
 st.title(selected_supplier)
