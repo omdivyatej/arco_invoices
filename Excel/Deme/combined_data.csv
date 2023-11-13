@@ -1,0 +1,906 @@
+InvoiceDate,InvoiceNumber,Total,Project_Name,SupplierName,Item,Description,Qty,Unit_Price,Amount,Month
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1.0,"8 "" PVC SDR 26 ( 0-6 ' Cut )",335.0,35.15,"$ 11,775.25",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2.0,"8 "" PVC SDR 26 ( 6¹ - 8 ' Cut )",453.0,CA $ 45.00,"$ 20,385.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3.0,"8 "" PVC SDR 26 ( 8 ' - 10 ' Cut )",155.0,45.80 $,"$ 7,099.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4.0,"8 "" PVC SDR 26 ( 10 ' - 12 ' Cut )",140.0,52.25 $,"$ 7,315,00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5.0,"8 "" PVC SDR 26 ( 12 ' - 14 ' Cut )",448.0,"$ 57.05 ( 
+A )","$ 25,558.40",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6.0,"8 "" PVC SDR 26 ( 14 "" -16 ' Cut )",4.0,83.80 $,$ 335.20,2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7.0,Manhole ( 0-6 ' Cut ) ( Polymer ),2.0,"$ 16,770.00","$ 33,540.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8.0,Manhole ( 6 ' - 8 ' Cut ) ( Polymer ),3.0,"$ 21,690.00","$ 65,070.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9.0,Manhole ( 12 ' - 14 ' Cut ) ( Polymer ),3.0,"$ 22,445.00","$ 67,335.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10.0,"Manhole ( Drop ) ( Lined ) ( 12 ' - 14 ' 
+Cut ) ( Polymer )",1.0,"$ 28,415.00","$ 28,415.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11.0,Lift Station,99 1.0,"$ 370,112.00","| $ 370,112.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12.0,Single Service Connection,3.0,"$ 1,775.00","$ 5,325.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13.0,Sanitary Sewer System Testing,1.0,"2,645.00 $","$ 2,645.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14.0,Air Testing,1.0,"1,890.00 $","$ 1,890.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15.0,"6 "" x 4 "" Tapping Sleeve and Valve",1.0,"$ 4,505.00","$ 4,505.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16.0,"4 "" PVC DR18",100.0,19.95 $,"$ 1,995.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17.0,"4 "" Plug Valve and Box",1.0,"$ 3,955.00","$ 3,955.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",18.0,"8 "" PVC SDR 11 Casing",100.0,$ 40.15,"$ 4,015.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19.0,Restrained Joints,1.0,390.00 $,$ 390.00,2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20.0,Pressure Test Forcemain,1.0,$ 123.00,$ 123.00,2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21.0,"4 "" Cap / TBO",1.0,$ 925.00,$ 925.00,2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",22.0,Trench Box / Shoring,1.0,"$ 4,305.00","$ 4,305.00",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",23.0,Offsite Restoration,1.0,615.00 $,$ 615.00,2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",24.0,"Remove 4 "" Sidewalk",20.0,$ 12.30 ( 9 ),$ 246.00,2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",25.0,"4 "" Thick Concrete Sidewalk Non 
+reinforced",100.0,$ 5.35,$ 535.00,2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",26.0,Open Cut and Restore Asphalt,1.0,"$ 39,970.77","$ 39,970.77",2023-05
+2023-05-25,22004-12,70837962.0,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1.0,"1 "" Type SP 9.5 Asphalt ( 1st Lift ) 
+( Light )","16,208.0",$ ( A ) 10.75,"$ 174,236.00",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2.0,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Light )","16,208.0",$ 10.30,"$ 166,942.40",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3.0,"6 "" Lime Rock Base ( Light )","16,208.0",$ 14.80,"$ 239,878.40",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4.0,"12 "" Stabilized Subgrade LBR40 
+( Light )","20,706.0",$ 5.70,"$ 118,024.20",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5.0,"1.5 "" Type SP 12.5 Asphalt ( 1st Lift ) 
+( Heavy )","18,891.0",$ 12.05,"$ 227,636.55",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6.0,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Heavy )","18,891.0",$ 9.80,"$ 185,131.80",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7.0,"8 "" Lime Rock Base ( Heavy )","18,891.0",$ 17.95,"$ 339,093.45",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8.0,"12 "" Stabilized Subgrade LBR40 
+( Heavy )","21,690.0",$ 5.70,"$ 123,633.00",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9.0,"4 "" Thick Concrete Sidewalk Non 
+reinforced","21,525.0",$ ( 9 ) 5.35,"$ 115,158.75",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10.0,"Thickened Edge Concrete 
+Sidewalk Non - reinforced","2,245.0",$ 10.15,"$ 22,786.75",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11.0,"ADA Handicap Ramps w / 
+Detectible Mats",13.0,"$ 1,225.00","$ 15,925.00",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12.0,D Curb,"4,912.0",$ 15.05,"$ 73,925.60",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13.0,F Curb,"3,483.0",GA 20.60,"$ 71,749.80",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14.0,2 ' BOC Bahia Sod,"1,066.0",$ GA 2.45,"$ 2,611.70",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15.0,Final Dress,1.0,"$ 1,300.00","$ 1,300.00",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16.0,Mill and Overlay,508.0,$ ( A ) 27.05,"$ 13,741.40",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17.0,Striping and Signage,1.0,"$ 57,425.00","$ 57,425.00",2023-05
+2023-05-25,22004-12,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",1,"15 "" RCP CL III",525.0,GA $ 40.90,"$ 21,472.50",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",2,"18 "" RCP CL III","1,974.0",$ 49.80,"$ 98,305.20",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",3,"24 "" RCP CL III","1,000.0",69 73.50 $,"73,500.00 $",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",4,"30 "" RCP CL III",340.0,$ 101.00,"$ 34,340.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",5,"36 "" RCP CL III",310.0,$ 140.00,"43,400.00 $",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",6,"42 "" RCP CL III","2,287.0",190.00 $,"$ 434,530.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",7,"48 "" RCP CL III",282.0,$ 217.00 GA,"61,194.00 $",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",8,"18 "" ADS HP","1,332.0",$ 48.35,"$ 64,402.20",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",9,"18 "" ADS Cap",27.0,"$ 1,175.00","$ 31,725.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",10,"Type "" 9 "" Curb Inlet",16.0,"$ 8,515.00 GA","$ 136,240.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",11,Concrete Flume,5.0,"$ 2,830.00","$ 14,150.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",12,Control Structure,1.0,"$ 8,975.00","$ 8,975.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",13,Grate Inlet,12.0,"$ 3,985.00","$ 47,820.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",14,Junction Box,18.0,"4,295.00 $","$ 77,310.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",15,"24 "" Flared End Section",6.0,"3,555.00 GA $","$ 21,330.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",16,"42 "" Flared End Section",1.0,"5,215.00 $","$ 5,215.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",17,"48 "" Flared End Section",1.0,"$ 6,235.00","$ 6,235.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",18,"48 "" Dual Flared End Section",1.0,"$ 11,590.00","11,590.00 $",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",19,Brick Storm Plug,8.0,$ 865.00,"6,920.00 $",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",20,Storm System Testing,1.0,"13,850.00 $ GA","$ 13,850.00",2023-05
+2023-05-25,22004-12,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",21,Downspout Connections,18.0,"$ 1,990.00","$ 35,820.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,10 ° PVC SDR 18,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,"8 "" PVC SDR 18",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,"6 "" PVC SDR 18",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","4 
+5","2 * HDPE 
+10 Gate Valve & Box",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,8 Gate Valve & Box,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,"10 "" x 10 "" MJ Tee",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,"10 "" x 10 "" Cut in Tee",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,"10 "" x 8 "" MJ Tee",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","10 
+11","10 "" x 6 "" MJ Tee 
+8 "" x 8 "" MJ Tee",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12,"8 "" x 6 "" MJ Tee",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13,"8 x 2 "" MJ Tee",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14,"10 "" x 8 "" MJ Reducer",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15,"10 x 6 "" MJ Reducer",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","16 
+17","8 x6 "" MJ Reducer 
+10 "" -90 ° MJ Bend",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",18,"10 "" -45 MJ Bend",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19,"10 "" -22 1/2 MJ Bend",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20,8-90 MJ Bend,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21,"8 "" -45 * MJ Bend",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","22 
+23","Fire Hydrant Assembly 
+8 "" Check Valve",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",24,FDC,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"10 "" Compound Master Water Meter",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",25,Assembly,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","26 
+27","2 "" Cap / TBO 
+8 "" Cap / TBO",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",28,"8 "" Stainless Steer Fire Riser",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",29,"2 "" Water Service to Lift Station",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",30,Restrained Joints,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","31 
+32","Chlorine Injection Point 
+Maintenance of Traffic",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",33,Offsite Restoration,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",34,Trench Box / Shoring,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",35,"Remove 10 "" Post Indicator Valve 
+and Replace with 10 "" Gate Valve",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","35 
+36","and Replace with 10 "" Gate Valve 
+10 "" Sold Sleeve",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",37,Temporary 6 Jumper,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",38,Chlorination,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",39,Pressure Test,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"CHANGE ORDERS 
+CO # 1 - Remove Paving Items # 9 ,",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,# 10 and # 11 From Contract and,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,"Add Back in Costs to Grade All 
+Sidewalks",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,CO # 2 - Plan Changes made of,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,03/2022 Revision,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,Around Owner's Trailer CO # 3 - Mowing Maintenance,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,CO # 4 - Plan Revisions,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"CO # 5 - Reduction of 1 "" of Conrete",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5,"( By Others ) at Truck Paving for 
+Bldas 100 & 200",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,"CO # 6 - Installation of Temporary 
+Parking Lot",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,CO # 7 - Add Phase 2 Storm Pipe,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,and Type 9 Curb Inlets,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,CO # 8 - T & M Work Tickets,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,"CO # 9 - Add Sanitary , Water , and 
+Fire Building Connections to Phase 
+1 Utilities",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,CO # 10 - Delivered 23 Loads of,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,"CO # 10 - Delivered 23 Loads of 
+# 57 Stone to Site",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,10 ° PVC SDR 18,"4,792.0",$ 56.05,"$ 268,591.60",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,"8 "" PVC SDR 18",360.0,$ 36.45,"$ 13,122.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,"6 "" PVC SDR 18",54.0,$ 25.45,"$ 1,374.30",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","4 
+5","2 * HDPE 
+10 Gate Valve & Box","156.0 
+22.0","$ 
+$ 13.25 
+2,620.00","$ 
+S 2,067.00 
+57.640.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,8 Gate Valve & Box,3.0,"$ 2,045.00",S 6.135.00,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,"10 "" x 10 "" MJ Tee",5.0,"$ 1,090.00","$ 5,450.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,"10 "" x 10 "" Cut in Tee",1.0,"$ 2,670.00","$ 2,670.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,"10 "" x 8 "" MJ Tee",3.0,$ 972.00,"$ 2,916.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","10 
+11","10 "" x 6 "" MJ Tee 
+8 "" x 8 "" MJ Tee","1.0 
+3.0","$ 
+$ 1,005.00 
+709.00","$ 
+$ 1.005.00 
+2,127.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12,"8 "" x 6 "" MJ Tee",3.0,$ 686.00,"S 2,058.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13,"8 x 2 "" MJ Tee",3.0,$ 622.00,"$ 1,866.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14,"10 "" x 8 "" MJ Reducer",1.0,$ 588.00,$ 588.00,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15,"10 x 6 "" MJ Reducer",3.0 ooooo,$ 603.00,S 1.809.00,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","16 
+17","8 x6 "" MJ Reducer 
+10 "" -90 ° MJ Bend","1.0 
+1.0","$ 
+$ 447.00 
+857.00","$ 
+S 447.00 
+857.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",18,"10 "" -45 MJ Bend",10.0,$ 723.00,"S 7,230.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19,"10 "" -22 1/2 MJ Bend",2.0,$ 722.00,"$ 1,444.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20,8-90 MJ Bend,1.0,$ 549.00,S 549.00,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21,"8 "" -45 * MJ Bend",3.0,$ 515.00,"S 1,545.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","22 
+23","Fire Hydrant Assembly 
+8 "" Check Valve","10.0 
+3.0","$ 
+$ 5,790.00 
+8,120.00","$ 
+$ 57,900.00 
+24,360.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",24,FDC,3.0,"$ 2,550.00","$ 7,650,00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"10 "" Compound Master Water Meter",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",25,Assembly,1.0,"$ 33,580.00","$ 33,580,00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","26 
+27","2 "" Cap / TBO 
+8 "" Cap / TBO","3.0 
+3.0","$ 
+$ 868.00 
+983.00","$ 
+$ 2,604.00 
+2,949,00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",28,"8 "" Stainless Steer Fire Riser",3.0,"$ 2,315.00","$ 6,945.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",29,"2 "" Water Service to Lift Station",1.0,$ 3.020.00,"$ 3,020,00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",30,Restrained Joints,1.0,"$ 32,565.00","$ 32,565,00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","31 
+32","Chlorine Injection Point 
+Maintenance of Traffic","1.0 
+1.0","$ 
+$ 615.00 
+2,705.00","$ 
+$ 615.00 
+2,705.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",33,Offsite Restoration,1.0,$ 959.00,$ 959.00,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",34,Trench Box / Shoring,1.0,$ 4.305.00,$ 4.305.00,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",35,"Remove 10 "" Post Indicator Valve 
+and Replace with 10 "" Gate Valve",1.0,,"$ 5,655.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","35 
+36","and Replace with 10 "" Gate Valve 
+10 "" Sold Sleeve",2.0,"$ 
+$ 5,655.00 
+749.00","$ 
+$ 5,655.00 
+1.498.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",37,Temporary 6 Jumper,1.0,"$ 12,860.00","$ 12,860.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",38,Chlorination,1.0,"$ 6,570.00","$ 6,570.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",39,Pressure Test,1.0,"$ 6,570.00","$ 6,570.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"CHANGE ORDERS 
+CO # 1 - Remove Paving Items # 9 ,",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,# 10 and # 11 From Contract and,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,"Add Back in Costs to Grade All 
+Sidewalks",1.0,"$ ( 122,138.00 )","$ ( 122,138.00 )",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,CO # 2 - Plan Changes made of,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,03/2022 Revision,1.0,"$ 339,777.00","$ 339,777.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,Around Owner's Trailer CO # 3 - Mowing Maintenance,1.0,"$ 2,500.00","$ 2,500.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,CO # 4 - Plan Revisions,1.0,"$ ( 474,126.00 )","$ ( 474,126.00 )",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"CO # 5 - Reduction of 1 "" of Conrete",,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5,"( By Others ) at Truck Paving for 
+Bldas 100 & 200",1.0,"$ 6,151.00","$ 6,151.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,"CO # 6 - Installation of Temporary 
+Parking Lot",1.0,"$ 5,275.00","$ 5,275.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,CO # 7 - Add Phase 2 Storm Pipe,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,and Type 9 Curb Inlets,99 1.0,"$ 152,948.00","$ 152,948.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,CO # 8 - T & M Work Tickets,1.0,$ 51.468.00,$ 51.468.00,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,"CO # 9 - Add Sanitary , Water , and 
+Fire Building Connections to Phase 
+1 Utilities",1.0,"$ 51,322.00","$ 51,322.00",2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,CO # 10 - Delivered 23 Loads of,,,,2023-05
+2023-05-25,22004-12,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,"CO # 10 - Delivered 23 Loads of 
+# 57 Stone to Site",1.0,"$ 33,972.00","$ 33,972.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",1.0,Mobilization,1.0,"$ 7,115.00","$ 7,115.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",2.0,Construction Entrance,1.0,"$ 5,535.00","$ 5,535.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",3.0,NPDES Compliance,1.0,"$ 8,115.00","$ 8,115.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",4.0,Silt Fence,"5,342.0",( A $ 1.60,"8,547.20 $ GA",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",5.0,Inlet Protection,61.0,$ 184.00,"11,224.00 $",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",6.0,Clearing,1.0,"22,755.00 $","22,755.00 $",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",7.0,Excavation,"146,790.0",$ 3.42,"$ 502,021.80",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",8.0,Import Fill,"187,285.0",$ 15.20,"$ 2,846,732.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",9.0,Grading,1.0,"CA $ 7,800.00","$ 7,800.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",10.0,Fine Grading,1.0,"$ 5,200.00","$ 5,200.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",11.0,Discing,37.0,$ 390.00 GA,"$ 14,430.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",12.0,Bahia Sod,"12,389.0",$ 2.40,"$ 29,733.60",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",13.0,Remove Existing Concrete Trough,1.0,615.00 GA,$ 615.00,2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",14.0,Remove Wire Fence,"4,617.0",1.85 $,"$ 8,541.45",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",15.0,Seed and Mulch Phase 2,"20,865.0",0.30 $,"$ 6,259.50",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",16.0,Dewatering / Demucking,"3,500.0",$ 22.25,"$ 77,875.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",17.0,"Survey , Stakeouts and As - builts",1.0,"$ 94,085.00","$ 94,085.00",2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",18.0,Geotechnical Testing,BY OTHERS,N / A,N / A,2023-05
+2023-05-25,22004-12,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-05
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",1.0,Mobilization,1.0,"$ 7,115.00","$ 7,115.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",2.0,Construction Entrance,1.0,"$ 5,535.00","$ 5,535.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",3.0,NPDES Compliance,1.0,"$ 8,115.00","$ 8,115.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",4.0,Silt Fence,"5,342.0",$ 1.60,"$ 8,547.20",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",5.0,Inlet Protection,61.0,$ 184.00,"$ 11,224.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",6.0,Clearing,1.0,"$ 22,755.00","$ 22,755.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",7.0,Excavation,"146,790.0",$ 3.42,"$ 502,021.80",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",8.0,Import Fill,"187,285.0",GA $ 15.20,"$ 2,846,732.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",9.0,Grading,1.0,"7,800.00 $","$ 7,800.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",10.0,Fine Grading,1.0,"5,200.00 $","$ 5,200.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",11.0,Discing,37.0,390.00 $,"$ 14,430.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",12.0,Bahia Sod,"12,389.0",2.40 $,"$ 29,733.60",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",13.0,Remove Existing Concrete Trough,1.0,615.00 $,$ 615.00,2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",14.0,Remove Wire Fence,"4,617.0",1.85 $,"$ 8,541.45",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",15.0,Seed and Mulch Phase 2,"20,865.0",0.30 $,"$ 6,259.50",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",16.0,Dewatering / Demucking,"3,500.0",$ 22.25,"$ 77,875.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",17.0,"Survey , Stakeouts and As - builts",1.0,"$ 94,085.00","$ 94,085.00",2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",18.0,Geotechnical Testing,BY OTHERS,N / A,N / A,2023-03
+2023-03-25,22004-10,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1.0,"8 "" PVC SDR 26 ( 0-6 ' Cut )",335.0,( 9 ) $ 35.15,"$ 11,775.25",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2.0,"8 "" PVC SDR 26 ( 6 ' - 8 ' Cut )",453.0,$ 45.00,"$ 20,385.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3.0,"8 "" PVC SDR 26 ( 8 ' - 10 "" Cut )",155.0,45.80 $,"$ 7,099.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4.0,"8 "" PVC SDR 26 ( 10 "" -12 "" Cut )",140.0,52.25 $,"$ 7,315.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5.0,"8 "" PVC SDR 26 ( 12 ' - 14 ' Cut )",448.0,$ 57.05,"$ 25,558.40",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6.0,"8 "" PVC SDR 26 ( 14 ' - 16 ' Cut )",4.0,83.80 $,$ 335.20,2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7.0,Manhole ( 0-6 ' Cut ) ( Polymer ),2.0,"$ 16,770.00","$ 33,540.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8.0,Manhole ( 6¹ - 8 ' Cut ) ( Polymer ),3.0,"$ 21,690.00","$ 65,070.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9.0,Manhole ( 12 ' - 14 ' Cut ) ( Polymer ),3.0,"$ 22,445.00","$ 67,335.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10.0,"Manhole ( Drop ) ( Lined ) ( 12 ' - 14 "" 
+Cut ) ( Polymer )",1.0,"$ 28,415.00","$ 28,415.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11.0,Lift Station,1.0,"$ 370,112.00","$ 370,112.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12.0,Single Service Connection,3.0,"$ 1,775.00","$ 5,325.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13.0,Sanitary Sewer System Testing,1.0,"$ 2,645.00","$ 2,645.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14.0,Air Testing,1.0,"$ 1,890.00","$ 1,890.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15.0,"6 "" x 4 "" Tapping Sleeve and Valve",1.0,"$ 4,505.00","$ 4,505.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16.0,"4 "" PVC DR18",100.0,$ 19.95,"$ 1,995.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17.0,"4 "" Plug Valve and Box",1.0,"$ 3,955.00","$ 3,955.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",18.0,"8 "" PVC SDR 11 Casing",100.0,$ 40.15,"$ 4,015.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19.0,Restrained Joints,1.0,$ 390.00 ( 0 ),$ 390.00,2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20.0,Pressure Test Forcemain,1.0,$ 123.00,$ 123.00,2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21.0,"4 "" Cap / TBO",1.0,$ 925.00,$ 925.00,2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",22.0,Trench Box / Shoring,1.0,"$ 4,305.00","$ 4,305.00",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",23.0,Offsite Restoration,1.0,$ 615.00,$ 615.00,2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",24.0,"Remove 4 "" Sidewalk 
+4 "" Thick Concrete Sidewalk Non",20.0,$ 12.30,$ 246.00,2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",25.0,reinforced,100.0,$ 5.35,$ 535.00,2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",26.0,Open Cut and Restore Asphalt,1.0,"$ 39,970.77","$ 39,970.77",2023-03
+2023-03-25,22004-10,708379.62,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,"10 "" PVC SDR 18","4,792.0",$ 56.05,"$ 268,591.60",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,"8 "" PVC SDR 18",360.0,$ 36.45,"$ 13,122.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,6 PVC SDR 18,54.0,$ 25.45,"$ 1,374.30",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,"2 "" HDPE",156.0,$ 13.25,"$ 2,067.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","5 
+6","10 "" Gate Valve & Box 
+8 "" Gate Valve & Box","22.0 
+3.0","$ 
+$ 2,620.00 
+2.045.00","$ 
+$ 57.640.00 
+6.135.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,"10 "" x 10 "" MJ Tee",5.0,"$ 1,090.00","$ 5,450.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,"10 "" x 10 "" Cut in Tee",1.0,"S 2,670.00","$ 2,670.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,"10 "" x 8 "" MJ Tee",3.0,$ 972.00,"S 2,916.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,"10 "" x 6 "" MJ Tee 
+Tee",1.0,$ 1.005.00,S 1.005.00,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","11 
+12","8 "" x 8 "" MJ 
+8 "" x6 "" MJ Tee","3.0 
+3.0","S 
+$ 709.00 
+686.00","S 
+$ 2.127.00 
+2,058.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13,"8 "" x 2 "" MJ Tee",3.0 6,$ 622.00,"$ 1,866.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14,"10 "" x 8 "" MJ Reducer",1.0,S 588.00,$ 588.00,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15,"10 "" x 6 "" MJ Reducer",66 3.0,S 603.00,"$ 1,809.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","16 
+17","8 "" x 6 "" MJ Reducer 
+10 "" -90 ° MJ Bend",1.0,S 447.00,S 447.00,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","17 
+18","10 "" -45 "" MJ Bend","1.0 
+10.0","$ 
+$ 857.00 
+723.00","$ 
+S 857.00 
+7,230.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19,"10 "" -22 1/2 MJ Bend",2.0,$ 360 722.00,"$ 1,444.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20,"8 "" -90 MJ Bend",1.0,$ len 549.00,S 549.00,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21,"8 "" -45 "" MJ Bend",3.0,$ 515.00,"$ 1,545.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","22 
+23","Fire Hydrant Assembly 
+8 "" Check Valve","10.0 
+3.0","enesen $ 
+$ 5,790.00 
+8,120.00","$ 
+$ 57,900.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",24,FDC,3.0,"en $ 2,550.00","$ 24,360.00 
+7.650.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"10 "" Compound Master Water Meter",,,,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",25,Assembly,1.0,"$ 33,580.00 in","$ 33,580.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","26 
+27","2 "" Cap / TBO 
+8 Cap / TBO","3.0 
+3.0","868.00 
+983.00 is in $ 
+$","2.604.00 $ 
+$ 2,949.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",28,"8 "" Stainless Steer Fire Riser",3.0,"2,315.00 en $","$ 6,945.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",29,"2 "" Water Service to Lift Station",1.0,"3,020.00 in",3.020.00 $,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",30,Restrained Joints,1.0,"$ 32,565.00 en","$ 32,565.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",31,Chlorine Injection Point,1.0,615.00 $ en,$ 615.00,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","32 
+33",Offsite Restoration Maintenance of Traffic,"1.0 
+1.0","2,705.00 
+959.00 in en","S 
+S 2,705.00 
+959.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",34,Trench Box / Shoring,== 1.0,4.305.00 in,$ 4.305.00,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"Remove 10 "" Post Indicator Valve",,,,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC","35 
+36","and Replace with 10 "" Gate Valve 
+10 "" Sold Sleeve","1.0 
+2.0","$ 5,655.00 
+749.00 ins","$ 
+S 5,655.00 
+1.498.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",37,"Temporary 6 "" Jumper",1.0,"$ 12,860.00","$ 12,860.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",38,Chlorination,1.0,"6,570.00 $","$ 6,570.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",39,Pressure Test,ob 1.0,"$ 6,570.00 inin","$ 6,570.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"CHANGE ORDERS 
+CO # 1 Remove Paving Items # 9 ,",,,,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,# 10 and # 11 From Contract and,,,,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,"Add Back in Costs to Grade All 
+Sidewalks",1.0,"$ ( 122,138,00 )","$ ( 122,138,00 )",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,CO # 2 Plan Changes made of,,,,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,03/2022 Revision,1.0,"$ 339,777.00","$ 339,777.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,Around Owner's Trailer CO # 3 - Mowing Maintenance,1.0,"$ 2,500.00","$ 2,500.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,CO # 4 - Plan Revisions,1.0,$ ( 474.126.00 ),$ ( 474.126.00 ),2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,"CO # 5 Reduction of 1 "" of Conrete",,,,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5,"( By Others ) at Truck Paving for 
+Bldas 100 & 200",1.0,"$ 6,151.00","$ 6,151.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,Parking Lot CO # 6 - Installation of Temporary,1.0,,"$ 5,275.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,CO # 7 - Add Phase 2 Storm Pipe,,"$ 5,275.00","$ 5,275.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,and Type 9 Curb In'ets,1.0,"$ 152,948.00","$ 152,948.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,"CO # 8 - T & M Work Tickets 
+CO # 9 - Add Sanitary , Water , and",1.0,$ 51.468.00,$ 51.468.00,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,Fire Bulding Connections to Phase,,,,2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,1 Utilities,1.0,"$ 51,322.00","S 51,322.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,"CO # 10 - Delivered 23 Loads of 
+# 57 Stone to Site",1.0,"$ 33,972.00","$ 33,972.00",2023-03
+2023-03-25,22004-10,8204437.77,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1.0,"15 "" RCP CL III",525.0,$ 40.90,"$ 21,472.50",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2.0,"18 "" RCP CL III","1,974.0",$ 49.80,"$ 98,305.20",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3.0,"24 "" RCP CL III","1,000.0",$ 73.50,"$ 73,500.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4.0,"30 "" RCP CL III",340.0,$ 69 101.00,"$ 34,340.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5.0,"36 "" RCP CL III",310.0,$ 140.00,"$ 43,400.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6.0,"42 "" RCP CL III","2,287.0",$ 190.00,"$ 434,530.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7.0,"48 "" RCP CL III",282.0,$ 217.00,"$ 61,194.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8.0,"18 "" ADS HP","1,332.0",$ 48.35,"$ 64,402.20",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9.0,"18 "" ADS Cap",27.0,"$ 1,175.00","$ 31,725.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10.0,"Type "" 9 "" Curb Inlet",16.0,"$ 8,515.00","$ 136,240.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11.0,Concrete Flume,5.0,"$ 2,830.00","$ 14,150.00 69",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12.0,Control Structure,1.0,"69 $ 8,975.00","$ 8,975.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13.0,Grate Inlet,12.0,"$ 3,985.00","$ 47,820.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14.0,Junction Box,18.0,"$ 69 4,295.00","$ 77,310.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15.0,"24 "" Flared End Section",6.0,"$ 3,555.00","$ 21,330.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16.0,"42 "" Flared End Section",1.0,"$ 5,215.00","$ 5,215.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17.0,"48 "" Flared End Section",1.0,"$ 6,235.00","$ 6,235.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",18.0,"48 "" Dual Flared End Section",1.0,"$ 11,590.00","$ 11,590.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19.0,Brick Storm Plug,8.0,$ 865.00,"$ 6,920.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20.0,Storm System Testing,1.0,"$ 13,850.00","$ 13,850.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21.0,Downspout Connections,18.0,"1,990.00","$ 35,820.00",2023-03
+2023-03-25,22004-10,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1.0,"1 "" Type SP 9.5 Asphalt ( 1st Lift ) 
+( Light )","16,208.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2.0,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Light )","16,208.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3.0,"6 "" Lime Rock Base ( Light )","16,208.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4.0,"12 "" Stabilized Subgrade LBR40 
+( Light )","20,706.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5.0,"1.5 "" Type SP 12.5 Asphalt ( 1st Lift ) 
+( Heavy )","18,891.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6.0,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Heavy )","18,891.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7.0,"8 "" Lime Rock Base ( Heavy )","18,891.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8.0,"12 "" Stabilized Subgrade LBR40 
+( Heavy )","21,690.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9.0,"4 "" Thick Concrete Sidewalk Non 
+reinforced","21,525.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10.0,"Thickened Edge Concrete 
+Sidewalk Non - reinforced","2,245.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11.0,"ADA Handicap Ramps w / 
+Detectible Mats",13.0,,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12.0,D Curb,"4,912.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13.0,F Curb,"3,483.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14.0,2 ' BOC Bahia Sod,"1,066.0",,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15.0,Final Dress,1.0,,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16.0,Mill and Overlay,508.0,,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17.0,Striping and Signage,1.0,,,2023-03
+2023-03-25,22004-10,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-03
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,Mobilization,1.0,"$ 7,115.00","$ 7,115.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,Construction Entrance,1.0,"$ 5,535.00","$ 5,535.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,NPDES Compliance,1.0,"$ 8,115.00","$ 8,115.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,Silt Fence,"5,342.0",1.60 $,"$ 8,547.20",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",5,Inlet Protection,61.0,184.00 $,"$ 11,224.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,Clearing,1.0,"$ 22,755.00","$ 22,755.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,Excavation,"146,790.0",$ 3.42,"$ 502,021.80",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,Import Fill,"187,285.0",$ 15.20,"$ 2,846,732.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,Grading,1.0,"$ 7,800.00","$ 7,800.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,Fine Grading,1.0,"$ 5,200.00","$ 5,200.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",11,Discing,37.0,$ 390.00,"$ 14,430.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",12,Bahia Sod,"12,389.0",$ 2.40,"$ 29,733.60",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",13,Remove Existing Concrete Trough,1.0,$ 615.00,$ 615.00,2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",14,Remove Wire Fence,"4,617.0",$ 1.85,"$ 8,541.45",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",15,Seed and Mulch Phase 2,"20,865.0",$ 0.30,"$ 6,259.50",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",16,Dewatering / Demucking,"3,500.0",$ 22.25,"$ 77,875.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",17,"Survey , Stakeouts and As - builts .",1.0,"$ 94,085.00","$ 94,085.00",2023-07
+2023-07-25,22004-14,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",18,Geotechnical Testing,BY OTHERS,N / A,N / A,2023-07
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,"15 "" RCP CL III",525.0,$ 40.90,"$ 21,472.50",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,"18 "" RCP CL III","1,974.0",$ GA 49.80,"$ 98,305.20",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,"24 "" RCP CL III","1,000.0",$ 69 73.50,"$ 73,500.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,"30 "" RCP CL III",340.0,69 $ 101.00,"$ 34,340.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5,"36 "" RCP CL III",310.0,$ 140.00,"$ 43,400.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,"42 "" RCP CL III","2,287.0",190.00,"$ 434,530.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,"48 "" RCP CL III",282.0,$ 217.00,"$ 61,194.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,"18 "" ADS HP","1,332.0",$ 48.35,"$ 64,402.20",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,"18 "" ADS Cap",27.0,"$ 1,175.00","$ 31,725.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,"Type "" 9 "" Curb Inlet",16.0,"$ 8,515.00","$ 136,240.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11,Concrete Flume,5.0,"$ 2,830.00","$ 14,150.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12,Control Structure,1.0,"$ 8,975.00","$ 8,975.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13,Grate Inlet,12.0,"$ 3,985.00","$ 47,820.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14,Junction Box,18.0,"$ 4,295.00","$ 77,310.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15,"24 "" Flared End Section",6.0,"$ 3,555.00","$ 21,330.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16,"42 "" Flared End Section",1.0,"$ 5,215.00","$ 5,215.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17,"48 "" Flared End Section",1.0,"$ 6,235.00","$ 6,235.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",18,"48 "" Dual Flared End Section",1.0,"$ 11,590.00","$ 11,590.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19,Brick Storm Plug,8.0,$ 865.00,"$ 6,920.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20,Storm System Testing,1.0,"$ 13,850.00","$ 13,850.00",2023-06
+2023-06-23,22004-13,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21,Downspout Connections,18.0,"$ 1,990.00","$ 35,820.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,"8 "" PVC SDR 26 ( 0-6 ' Cut )",335.0,$ 35.15,"$ 11,775.25",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,"8 "" PVC SDR 26 ( 6 ' - 8 ' Cut )",453.0,$ 45.00,"$ 20,385.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",الينا 3,"8 "" PVC SDR 26 ( 8 ' - 10 ' Cut )",155.0,$ 45.80,"$ 7,099.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,"8 "" PVC SDR 26 ( 10 ' - 12 ' Cut )",140.0,$ 52.25,"$ 7,315.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5,"8 "" PVC SDR 26 ( 12 ' - 14 ' Cut )",448.0,57.05 $,"$ 25,558.40",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,"8 "" PVC SDR 26 ( 14-16 ' Cut )",4.0,83.80 $,$ 335.20,2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,Manhole ( 0-6 ' Cut ) ( Polymer ),2.0,"$ 16,770.00","$ 33,540.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,Manhole ( 6 ' - 8 ' Cut ) ( Polymer ),3.0,"$ 21,690.00","$ 65,070.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,"Manhole ( 12 ' - 14 "" Cut ) ( Polymer )",3.0,"$ 22,445.00","$ 67,335.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,"Manhole ( Drop ) ( Lined ) ( 12 ' - 14 ' 
+Cut ) ( Polymer )",1.0,"$ 28,415.00","$ 28,415.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11,Lift Station,1.0,"$ 370,112.00","$ 370,112.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12,Single Service Connection,3.0,"$ 1,775.00","$ 5,325.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13,Sanitary Sewer System Testing,1.0,"2,645.00 LA","$ 2,645.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14,Air Testing,1.0,"1,890.00 $","$ 1,890.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15,"6 "" x 4 "" Tapping Sleeve and Valve",1.0,"4,505.00 $","$ 4,505.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16,"4 "" PVC DR18",100.0,19.95 $,"$ 1,995.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17,"4 "" Plug Valve and Box",1.0,"3,955.00 $","$ 3,955.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",18,"8 "" PVC SDR 11 Casing",100.0,40.15,"$ 4,015.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19,Restrained Joints,1.0,390.00 $,$ 390.00,2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20,Pressure Test Forcemain,1.0,123.00,$ 123.00,2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21,"4 "" Cap / TBO",1.0,925.00 $,$ 925.00,2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",22,Trench Box / Shoring,1.0,"4,305.00 $","$ 4,305.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",23,Offsite Restoration,1.0,615.00 $,$ 615.00,2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",24,"Remove 4 "" Sidewalk",20.0,12.30 $,$ 246.00,2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",25,"4 "" Thick Concrete Sidewalk Non 
+reinforced",100.0,5.35,$ 535.00,2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",26,Open Cut and Restore Asphalt,1.0,"$ 39,970.00","$ 39,970.00",2023-06
+2023-06-23,22004-13,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-06
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",1.0,"B "" PVC SDR 26 ( 0-6 ' Cut )",335.0,$ 35.15,"$ 11,775.25",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",2.0,8 PVC SDR 26 ( 6-8 ' Cut ),453.0,$ 45.00,"$ 20,385.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",38.0,PVC SDR 26 ( 8-10 Cut ),155.0,$ 45.80,"$ 7,099.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",4.0,8 PVC SDR 26 ( 10-12 Cut ),140.0,$ 52.25,"$ 7,315.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",5.0,8 PVC SDR 26 ( 12-14 ' Cut ),448.0,$ 57.05,"$ 25,558.40",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",6.0,8 PVC SDR 26 ( 14-16 ' Cut ),4.0,83.80 $,$ 335.20,2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",7.0,Manhole ( 0-6 ' Cut ) ( Polymer ),2.0,"$ 16,770.00","$ 33,540.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",8.0,Manhole ( 6 ' - 8 Cut ) ( Polymer ),3.0,"$ 21,690.00","$ 65,070.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",9.0,Manhole ( 12-14 ' Cut ) ( Polymer ),3.0,"$ 22,445.00","$ 67,335.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",10.0,"Manhole ( Drop ) ( Lined ) ( 12-14 
+Cut ) ( Polymer )",1.0,"$ 28,415.00","$ 28,415,00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",11.0,Lift Station,1.0,"$ 370,112.00","$ 370,112.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",12.0,Single Service Connection,3.0,"1,775.00 $","S 5,325.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",13.0,Sanitary Sewer System Testing,1.0,"2,645.00 $","S 2,645.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",14.0,Air Testing,1.0,"$ 1,890.00","$ 1,890.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",15.0,"6 "" x 4 "" Tapping Sleeve and Valve",1.0,"$ 4,505.00","$ 4,505.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",16.0,"4 "" PVC DR18",100.0,$ 19.95,"$ 1,995.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",17.0,"4 "" Plug Valve and Box",1.0,"$ 3,955.00","$ 3,955.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",18.0,"8 "" PVC SDR 11 Casing",100.0,40.15 $,"$ 4,015.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",19.0,Restrained Joints,1.0,390.00 $,$ 390.00,2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",20.0,Pressure Test Forcemain,1.0,$ 123.00,$ 123.00,2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",21.0,"4 "" Cap / TBO",1.0,$ 925.00,$ 925.00,2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",22.0,Trench Box / Shoring,1.0,"$ 4,305.00","$ 4,305.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",23.0,Offsite Restoration,1.0,$ 615.00,$ 615.00,2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",24.0,"Remove 4 "" Sidewalk 
+"" Thick Concrete Sidewalk Non",20.0,$ 12.30,$ 246.00,2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",25.0,"4 "" Thick Concrete Sidewalk Non 
+reinforced",100.0,$ 5.35,$ 535.00,2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",26.0,Open Cut and Restore Asphalt,1.0,"$ 39,970.00","$ 39,970.00",2023-07
+2023-07-25,22004-14,708378.85,"Manatee County Logistics
+","DEME CONSTRUCTION , LLC",,,,,,2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",1,"1 "" Type SP 9.5 Asphalt ( 1st Lift ) 
+( Light )","16,208.00",S 10.75,"$ 174,236.00",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",2,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Light )","16,208.00",$ 10.30,"$ 166,942.40",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",3,"6 "" Lime Rock Base ( Light )","16,208.00",$ 14.80,"$ 239,878.40",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",4,"12 "" Stabilized Subgrade LBR40 
+( Light )","20,706.00",$ 5.70,"$ 118,024.20",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",5,"1.5 "" Type SP 12.5 Asphalt ( 1st Lift ) 
+( Heavy )","18,891.00",$ 12.05,"S 227,636.55",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",6,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Heavy )","18,891.00",is 9.80,"$ 185,131.80",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",7,8 Lime Rock Base ( Heavy ),"18,891.00",$ s 17.95,"$ 339,093.45",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",8,"12 "" Stabilized Subgrade LBR40 
+( Heavy )","21,690.00",$ 20 5.70,"$ 123,633.00",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",9,"4 "" Thick Concrete Sidewalk Non 
+reinforced","21,525.00",$ 5.35,"$ 115,158.75",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",10,"Thickened Edge Concrete 
+Sidewalk Non - reinforced","2,245.00",$ 10.15,"$ 22,786,75",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",11,"ADA Handicap Ramps w / 
+Detectible Mats",13,"$ 1,225.00","$ 15,925.00",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",12,D Curb,"4,912.00",$ 15.05,"S 73,925.60",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",13,F Curb,"3,483.00",SS 20.60,"S 71,749.80",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",14,2 ' BOC Bahia Sod,"1,066.0 99",2.45,"$ 2,611.70",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000","15 
+16","Final Dress 
+Mill and Overlay",508.0 1.0,"$ 
+S 1,300.00 
+27.05","$ 
+S 1,300.00 
+13,741.40",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",17,Striping and Signage,1,"$ 57,425.00","$ 57,425.00",2023-07
+2023-07-25,22004-14,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5000",,,,,,2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",1.0,"15 "" RCP CL III",525.0,$ 40.90,"$ 21,472.50",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",2.0,"18 "" RCP CL III","1,974.0",$ 49.80,"98,305.20",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",3.0,"24 "" RCP CL III","1,000.0",$ 73.50,"73,500.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",4.0,"30 "" RCP CL III",340.0,101.00 $,"$ 34,340.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",5.0,"36 "" RCP CL III",310.0,$ 140.00,"$ 43,400.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",6.0,"42 "" RCP CL III","2,287.0",190.00 $,"434,530.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",7.0,"48 "" RCP CL III",282.0,$ 217.00,"$ 61,194.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",8.0,"18 "" ADS HP","1,332.0",$ 48.35,"$ 64,402.20",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",9.0,"18 "" ADS Cap",27.0,"$ 1,175.00","$ 31,725.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",10.0,"Type "" 9 "" Curb Inlet",16.0,"$ 8,515.00","$ 136,240.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",11.0,Concrete Flume,5.0,"2,830.00 $","$ 14,150.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",12.0,Control Structure,1.0,"8,975.00 $","$ 8,975.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",13.0,Grate Inlet,12.0,"$ 3,985.00","$ 47,820.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",14.0,Junction Box,18.0,"$ 4,295.00","$ 77,310.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",15.0,"24 "" Flared End Section",6.0,"3,555.00 $","$ 21,330.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",16.0,"42 "" Flared End Section",1.0,"$ 5,215.00","$ 5,215.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",17.0,"48 "" Flared End Section",1.0,"$ 6,235.00","$ 6,235.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",18.0,"48 "" Dual Flared End Section",1.0,"$ 11,590.00","$ 11,590.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",19.0,Brick Storm Plug,8.0,$ 865.00,"$ 6,920.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",20.0,Storm System Testing,1.0,"$ 13,850.00","$ 13,850.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",21.0,Downspout Connections,18.0,"$ 1,990.00","$ 35,820.00",2023-07
+2023-07-25,22004-14,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",,,,,,2023-07
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,"1 "" Type SP 9.5 Asphalt ( 1st Lift ) 
+( Light )","16,208.0",$ 10.75,"$ 174,236.00",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Light )","16,208.0",$ 10.30,"S 166,942.40",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,"6 "" Lime Rock Base ( Light )","16,208.0",$ SS 14.80,"S 239,878.40",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,"12 "" Stabilized Subgrade LBR40 
+( Light )","20,706.0",$ 5.70,"$ 118,024.20",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5,"1.5 "" Type SP 12.5 Asphalt ( 1st Lift ) 
+( Heavy )","18,891.0",$ 12.05,"$ 227,636.55",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Heavy )","18,891.0",$ 9.80,"$ 185,131.80",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,"8 "" Lime Rock Base ( Heavy )","18,891.0",$ 17.95,"$ 339,093.45",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,"12 "" Stabilized Subgrade LBR40 
+( Heavy )","21,690.0",$ 5.70,"$ 123,633.00",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,"4 "" Thick Concrete Sidewalk Non 
+reinforced","21,525.0",$ 5.35,"$ 115,158.75",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,"Thickened Edge Concrete 
+Sidewalk Non - reinforced","2,245.0",$ 10.15,"$ 22,786.75",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11,"ADA Handicap Ramps w / 
+Detectible Mats",13.0,"$ n 1,225.00","$ 15,925.00",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12,D Curb,"4,912.0",$ 15.05,"$ 73,925.60",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13,F Curb,"3,483.0",non $ 20.60,"$ 71,749.80",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14,2¹ BOC Bahia Sod,"1,066.0",SS 2.45,"$ 2,611.70",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15,Final Dress,1.0,"1,300.00","$ 1,300.00",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC","16 
+17","Mill and Overlay 
+Striping and Signage","508.0 
+1.0","27.05 S 
+$ 57,425.00","$ 
+S 13,741.40 
+57,425.00",2023-08
+2023-08-25,22004-15,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",1.0,Mobilization,1.0,"$ 7,115.00","$ 7,115.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",2.0,Construction Entrance,1.0,"$ 5,535.00","$ 5,535.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",3.0,NPDES Compliance,1.0,"$ 8,115.00","$ 8,115.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",4.0,Silt Fence,"5,342.0",1.60 $ 69,"$ 8,547.20",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",5.0,Inlet Protection,61.0,184.00 $ 69,"$ 11,224.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",6.0,Clearing,1.0,"$ 22,755.00","$ 22,755.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",7.0,Excavation,"146,790.0",$ 3.42,"502,021.80 $",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",8.0,Import Fill,"187,285.0",$ 15.20,"$ 2,846,732.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",9.0,Grading,1.0,"$ 7,800.00","$ 7,800.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",10.0,Fine Grading,1.0,"$ 5,200.00","$ 5,200.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",11.0,Discing,37.0,$ 390.00,"$ 14,430.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",12.0,Bahia Sod,"12,389.0",69 $ 2.40,"$ 29,733.60",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",13.0,Remove Existing Concrete Trough,1.0,69 615.00,$ 615.00,2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",14.0,Remove Wire Fence,"4,617.0",$ 69 1.85,"$ 8,541.45",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",15.0,Seed and Mulch Phase 2,"20,865.0",69 $ 0.30,"$ 6,259.50",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",16.0,Dewatering / Demucking,"3,500.0",$ 22.25,"$ 77,875.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",17.0,"Survey , Stakeouts and As - builts",1.0,"94,085.00","$ 94,085.00",2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",18.0,Geotechnical Testing,BY OTHERS,N / A,N / A,2023-08
+2023-08-25,22004-15,3656584.55,Manatee County Logistics,"DEME CONSTRUCTION , LLC, 755-5900",,,,,,2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,8 PVC SDR 26 ( 0-6 ' Cut ),335.0,$ 35.15,"$ 11,775.25",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,8 PVC SDR 26 ( 6-8 ' Cut ),453.0,S 45.00,"$ 20,385.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,8 PVC SDR 26 ( 8-10 Cut ),155.0,$ 45.80,"$ 7,099.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,8 PVC SDR 26 ( 10-12 ' Cut ),140.0,$ 52.26,"$ 7,315.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5,8 PVC SDR 26 ( 12-14 ' Cut ),81 448.0 o,"$ 57,05","$ 25,558.40",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,8 PVC SDR 26 ( 14-16 ' Cut ),o 4.0,$ 83.80,$ 335.20,2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,Manhole ( 0-6 ' Cut ) ( Polymer ),2.0 o,"$ 16,770.00","$ 33,540.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,Manhole ( 6 ' - 8 ' Cut ) ( Polymer ),COWNA 3.0,"$ 21,690.00","$ 65,070.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,Manhole ( 12-14 ' Cut ) ( Polymer ),3.0,"$ 22,445.00","$ 67,335.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,"Manhole ( Drop ) ( Lined ) ( 12-14 
+Cut ) ( Polymer )",1.0,"$ 28,415.00","$ 28,415.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11,Lift Station,1.0,"$ 370,112.00","$ 370,112.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12,Single Service Connection,3.0,"$ 1,775.00","$ 5,325,00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13,Sanitary Sewer System Testing,,"$ 2,645.00","$ 2,645.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14,Air Testing,1.0,"$ 1,890.00","$ 1,890.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15,"6 "" x 4 "" Tapping Sleeve and Valve",1.0,"$ 4,505.00","$ 4,505.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16,"4 "" PVC DR18",100.0,$ 19.95,"$ 1,995.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17,"4 "" Plug Valve and Box",99898989898989 1.0,"3,955.00","$ 3,955.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",18,"8 "" PVC SDR 11 Casing",100.0,40.15,"$ 4,015.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19,Restrained Joints,1.0,$ 390.00,$ 390.00,2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20,Pressure Test Forcemain,1.0,$ sinis 123.00,$ 123.00,2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21,"4 "" Cap / TBO",1.0,$ 925.00,$ 925.00,2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",22,Trench Box / Shoring,1.0,"4,305.00","$ 4,305.00",2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",23,Offsite Restoration,1.0,si 615.00,$ 615.00,2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",24,"Remove 4 "" Sidewalk 
+4 Thick Concrete Sidewalk Non",20.0,12.30 $,$ 246.00,2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",25,reinforced,100.0,$ 5.35,$ 535.00,2023-08
+2023-08-25,22004-15,708378.85,Manatee County Logistics,"DEME CONSTRUCTION , LLC",28,Open Cut and Restore Asphalt,1.0,"$ 39,970.00","$ 39,970.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1,"15 "" RCP CL III",525.0,$ 40.90,"$ 21,472.50",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2,"18 "" RCP CL III","1,974.0",$ 49.80,"98,305.20 $",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3,"24 "" RCP CL III","1,000.0",$ 73.50,"$ 73,500.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4,"30 "" RCP CL III",340.0,101.00,"$ 34,340.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5,"36 "" RCP CL III",310.0,$ 140.00,"$ 43,400.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6,"42 "" RCP CL III","2,287.0",$ 190.00,"$ 434,530.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7,"48 "" RCP CL III",282.0,217.00,"$ 61,194.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8,"18 "" ADS HP","1,332.0",$ 48.35,"$ 64,402.20",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9,"18 "" ADS Cap",27.0,"$ 1,175.00","$ 31,725.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10,"Type "" 9 "" Curb Inlet",16.0,"69 8,515.00 $","$ 136,240.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11,Concrete Flume,65 5.0 с,"69 2,830.00 $","$ 14,150.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12,Control Structure,1.0,"8,975.00 $","$ 8,975.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13,Grate Inlet,12.0,"3,985.00 $ 69","$ 47,820.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14,Junction Box,18.0,"4,295.00 69 $","$ 77,310.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15,"24 "" Flared End Section",6.0,"3,555.00 69 $","21,330.00 $",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16,"42 "" Flared End Section",1.0,"5,215.00 $","5,215.00 $",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17,"48 "" Flared End Section",1.0,"$ 6,235.00 LA","$ 6,235.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",18,"48 "" Dual Flared End Section",1.0,"11,590.00 $ SA","$ 11,590.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",19,Brick Storm Plug,8.0,865.00 $,"6,920.00 $",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",20,Storm System Testing,1.0,"13,850.00 $","$ 13,850.00",2023-08
+2023-08-25,22004-15,1248323.9,Manatee County Logistics,"DEME CONSTRUCTION , LLC",21,Downspout Connections,18.0,"$ 1,990.00","$ 35,820.00",2023-08
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",1,10 PVC SDR 18,"4,792.0",$ 56.05,"$ 268,591.60",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",2,"8 "" PVC SDR 18",360.0,$ n 36.45,"$ 13,122.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",3,"6 "" PVC SDR 18",54.0,en $ 25.45,"$ 1,374.30",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC","4 
+5","2 "" HDPE 
+10 "" Gate Valve & Box","156.0 
+22.0","$ 
+$ in 13.25 
+2,620.00","S 
+S 2.067.00 
+57,640.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",6,"8 "" Gate Valve & Box",3.0,$ 2.045.00,$ 6.135.00,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",7,"10 "" x 10 "" MJ Tee",5.0,"$ 1,090.00","$ 5,450.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",8,"10 "" x 10 "" Cut in Tee",1.0,"$ 2,670.00","$ 2,670.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",9,"10 "" x 8 "" MJ Tee 
+"" x 6 "" MJ Tee",3.0,$ 972.00,"S 
+S 2,916.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC","10 
+11","10 "" x 6 "" MJ Tee 
+8 "" x 8 "" MJ Tee","1.0 
+3.0","S 
+$ 1.005.00 
+709.00","S 
+S 1.005.00 
+2.127.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",12,"8 "" x 6 "" MJ Tee",3.0,inn 686.00,S 2.058.00,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",13,"8 "" x 2 "" MJ Tee",3.0,$ 622.00,"$ 1,866.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",14,"10 "" x 8 MJ Reducer",1.0,$ inn 588.00,$ 588.00,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",15,"10 "" x 6 "" MJ Reducer",3.0,$ o 603.00,"$ 1,809.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC","16 
+17","8 "" x 6 "" MJ Reducer 
+10-90 MJ Bend","1.0 
+1.0","$ 
+$ 447.00 
+857.00","$ 
+$ 447.00 
+857.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",18,"10 "" -45 MJ Bend",10.0,innifer $ 723.00,"$ 7,230.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",19,"10 "" -22 1/2 MJ Bend",2.0,$ 722.00,"$ 1,444.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",20,"8 "" -90 MJ Bend",1.0,$ 549.00,$ 549.00,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",21,"8 "" -45 ° MJ Bend",3.0,$ 515.00,"$ 1,545.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC","22 
+23","Fire Hydrant Assembly 
+8 "" Check Valve","10.0 
+3.0","$ 
+$ 5,790.00 
+8,120.00","$ 
+$ 57,900.00 
+24,360.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",24,FDC,3.0,"$ 2,550.00","$ 7,650.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",,"10 "" Compound Master Water Meter",,,,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC","25 
+26","Assembly 
+2 "" Cap / TBO","1.0 
+3.0","$ 
+$ 33,580.00 
+868.00","$ 
+$ 33,580.00 
+2,604.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",27,"8 "" Cap / TBO",3.0,$ 983.00,"$ 2,949,00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",28,"8 "" Stainless Steer Fire Riser",3.0,"$ 2,315.00","$ 6,945.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",29,2 * Water Service to Lift Station,1.0,$ 3.020.00,$ 3.020.00,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",30,Restrained Joints,1.0,"$ 32,565.00","$ 32,565,00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",31,Chlorine Injection Point,1.0,615.00 $,$ 615.00,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",33 32,"Maintenance of Traffic 
+Offsite Restoration","1.0 
+1.0","$ 2,705.00 
+$ 959.00","$ 
+$ 2,705.00 
+959.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",34,Trench Box / Shoring,1.0,$ 4.305.00,$ 4.305.00,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",,"Remove 10 "" Post Indicator Valve",,,,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC","35 
+36","and Replace with 10 "" Gate Valve 
+10 "" Solid Sleeve","1.0 
+2.0","$ 5,655.00 
+$ 749.00","$ 
+$ 5,655.00 
+1.498.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",37,"Temporary 6 "" Jumper",1.0,"$ 12,860.00","$ 12,860.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",38,Chlorination,1.0,"$ 6,570.00","$ 6,570.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",39,Pressure Test,1.0,"$ 6,570.00","$ 6,570.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",,"CHANGE ORDERS 
+CO # 1 Remove Paving Items # 9 ,",,,,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",,# 10 and # 11 From Contract and,,,,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",1,"Add Back in Costs to Grade All 
+Sidewalks",1.0,"$ ( 122,138.00",") $ ( 122,138.00 )",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",,CO # 2 - Plan Changes made of,,,,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",2,03/2022 Revision,1.0,"$ 339,777.00","$ 339,777.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",3,"CO # 3 - Mowing Maintenance 
+Around Owner's Trailer",1.0,"$ 2,500.00","$ 2,500.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",4,CO # 4 - Plan Revisions,1.0,"$ ( 474,126.00",") $ ( 474,126.00 )",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",,"CO # 5 - Reduction of 1 "" of Conrete",,,,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",5,"( By Others ) at Truck Paving for 
+Bldas 100 & 200",1.0,"$ 6,151.00","$ 6,151.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",,CO # 6 - Installation of Temporary,,,,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",6,"Parking Lot 
+CO # 7 - Add Phase 2 Storm Pipe",1.0,"$ 5,275.00","$ 5,275.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",7,and Type 9 Curb Inlets,1.0,"$ 152,948.00","$ 152,948.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",8,CO # 8 - T & M Work Tickets,1.0,$ 51.468.00,"S 51,468.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",,"CO # 9 - Add Sanitary , Water , and 
+Fire Building Connections to Phase",,,,2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",9,1 Utilities,1.0,"$ 51,322.00","$ 51,322.00",2023-06
+2023-06-23,22004-13,8204437.0,Manatee County Logistics Ste,"DEME CONSTRUCTION , LLC",10,"CO # 10 - Delivered 23 Loads of 
+# 57 Stone to Site",1.0,"$ 33,972.00","$ 33,972.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",1.0,Mobilization,1.0,"$ 7,115.00","$ 7,115.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",2.0,Construction Entrance,1.0,"$ 5,535.00","$ 5,535.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",3.0,NPDES Compliance,1.0,"$ 8,115.00","$ 8,115.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",4.0,Silt Fence,"5,342.0",$ 1.60,"$ 8,547.20",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",5.0,Inlet Protection,61.0,$ 184.00,"$ 11,224.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",6.0,Clearing,1.0,"$ 22,755.00","$ 22,755.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",7.0,Excavation,"146,790.0",$ 3.42,"$ 502,021.80",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",8.0,Import Fill,"187,285.0",$ 15.20,"$ 2,846,732.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",9.0,Grading,1.0,"$ 7,800.00","$ 7,800.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",10.0,Fine Grading,1.0,"69 $ 5,200.00","$ 5,200.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",11.0,Discing,37.0,390.00 $,"$ 14,430.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",12.0,Bahia Sod,"12,389.0",( A 2.40 $,"$ 29,733.60",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",13.0,Remove Existing Concrete Trough,1.0,615.00 $,$ 615.00,2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",14.0,Remove Wire Fence,"4,617.0",1.85 $,"$ 8,541.45",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",15.0,Seed and Mulch Phase 2,"20,865.0",0.30 $,"$ 6,259.50",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",16.0,Dewatering / Demucking,"3,500.0",$ 22.25,"$ 77,875.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",17.0,"Survey , Stakeouts and As - builts",1.0,"$ 94,085.00","$ 94,085.00",2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",18.0,Geotechnical Testing,BY OTHERS,N / A,N / A,2023-06
+2023-06-23,22004-13,3656584.55,NAME : Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",1.0,"1 "" Type SP 9.5 Asphalt ( 1st Lift ) 
+( Light )","16,208.0",$ 10.75,"$ 174,236.00",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",2.0,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Light )","16,208.0",$ 10.30,"$ 166,942.40",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",3.0,"6 "" Lime Rock Base ( Light )","16,208.0",$ 14.80,"$ 239,878.40",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",4.0,"12 "" Stabilized Subgrade LBR40 
+( Light )","20,706.0",$ 5.70,"$ 118,024.20",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",5.0,"1.5 "" Type SP 12.5 Asphalt ( 1st Lift ) 
+( Heavy )","18,891.0",$ 12.05,"$ 227,636.55",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",6.0,"1 "" Type SP 9.5 Asphalt ( 2nd Lift ) 
+( Heavy )","18,891.0",$ GA 9.80,"$ 185,131.80",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",7.0,"8 "" Lime Rock Base ( Heavy )","18,891.0",( A ) $ 17.95,"$ 339,093.45",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",8.0,"12 "" Stabilized Subgrade LBR40 
+( Heavy )","21,690.0",GA 5.70,"$ 123,633.00",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",9.0,"| 4 "" Thick Concrete Sidewalk Non 
+reinforced","21,525.0",$ ( 9 ) 5.35,"$ 115,158.75",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",10.0,"Thickened Edge Concrete 
+| Sidewalk Non - reinforced","2,245.0",$ 10.15,"$ 22,786.75",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",11.0,"ADA Handicap Ramps w / 
+Detectible Mats",13.0,"$ 1,225.00","$ 15,925.00",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",12.0,D Curb,"4,912.0",$ 15.05,"$ 73,925.60",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",13.0,F Curb,"3,483.0",$ -GA 20.60,"$ 71,749.80",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",14.0,2 ' BOC Bahia Sod,"1,066.0",$ 2.45,"$ 2,611.70",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",15.0,Final Dress,1.0,"$ ( A ) 1,300.00","$ 1,300.00",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",16.0,Mill and Overlay,508.0,$ 27.05,"$ 13,741.40",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",17.0,Striping and Signage,1.0,"$ 57,425.00","$ 57,425.00",2023-06
+2023-06-23,22004-13,1949199.8,Manatee County Logistics,"DEME CONSTRUCTION , LLC",,,,,,2023-06
