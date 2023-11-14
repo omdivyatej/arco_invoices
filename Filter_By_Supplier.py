@@ -33,11 +33,16 @@ def load_data(supplier_name):
     monthly_totals_df = pd.read_csv(monthly_totals_path)
     combined_data_df = pd.read_csv(combined_data_path)
     
-    # Ensure the 'Month' column exists and is in datetime format
+    # Convert 'Month' to datetime, sort, and then back to month name for display
     if 'Month' in monthly_totals_df.columns:
-        monthly_totals_df['Month'] = pd.to_datetime(monthly_totals_df['Month']).dt.strftime('%b') # Convert to month abbreviation
+        monthly_totals_df['Month'] = pd.to_datetime(monthly_totals_df['Month'], errors='coerce')
+        monthly_totals_df.sort_values('Month', inplace=True)
+        monthly_totals_df['Month'] = monthly_totals_df['Month'].dt.strftime('%b') # Convert to month abbreviation for display
+
     if 'Month' in combined_data_df.columns:
-        combined_data_df['Month'] = pd.to_datetime(combined_data_df['Month']).dt.strftime('%b')
+        combined_data_df['Month'] = pd.to_datetime(combined_data_df['Month'], errors='coerce')
+        combined_data_df.sort_values('Month', inplace=True)
+        combined_data_df['Month'] = combined_data_df['Month'].dt.strftime('%b')
 
     return monthly_totals_df, combined_data_df
 
@@ -61,7 +66,7 @@ if not monthly_totals_df.empty and not combined_data_df.empty:
 
     # Plot the line graph for monthly spend
     st.markdown("### Monthly Spend Over Time")
-    monthly_totals_df = monthly_totals_df.set_index('Month')
+    monthly_totals_df.set_index('Month', inplace=True)
     st.line_chart(monthly_totals_df['Total'], use_container_width=True)
 
     # Option to select a month and display the DataFrame
@@ -70,7 +75,7 @@ if not monthly_totals_df.empty and not combined_data_df.empty:
     selected_month = st.selectbox('Select a Month', months)
 
     # Ensure the 'Month' column exists before filtering
-    if 'Month' in combined_data_df.columns:
+    if 'Month' in combined_data_df.columns and selected_month in combined_data_df['Month'].values:
         monthly_data = combined_data_df[combined_data_df['Month'] == selected_month]
         st.dataframe(monthly_data)
     else:

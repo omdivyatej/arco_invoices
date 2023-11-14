@@ -1,47 +1,47 @@
 InvoiceDate,InvoiceNumber,Total,Project_Name,SupplierName,Item,Description,Qty,Unit_Price,Amount,Month
-2023-08-18,33,"140,913.00",,,,,,,,2023-08
-2023-08-18,33,,,Ground Service,1,Construction entrance ( 1 ),,,"$ 2,650.00",2023-08
-2023-08-18,33,,,Ground Service,2,Shaker plate ( 3 plates for 12 months ),,,"$ 4,900.00",2023-08
-2023-08-18,33,,,Ground Service,3,"Gravel bags ( 4,200 )",,,"$ 7,560.00",2023-08
-2023-08-18,33,,,Ground Service,4,"Gravel bags ( 5,270 )",,,"$ 9,486.00",2023-08
-2023-08-18,33,,,Ground Service,5,"Hydro - seeding ( 199,393 sqft )",,,"$ 15,951.44",2023-08
-2023-08-18,33,,,Ground Service,6,BMP stockpile ( 1 ),,,"$ 1,500.00",2023-08
-2023-08-18,33,,,Ground Service,7,BMP removal ( 1 ),,,"$ 4,200.00",2023-08
-2023-08-18,33,,,Ground Service,8,Area drain inlet protection ( 81 ),,,"$ 2,025.00",2023-08
-2023-08-18,33,,,Ground Service,9,Storm drain inlet protection ( 3 ),,,$ 225.00,2023-08
-2023-08-18,33,,,Ground Service,10,BMP maintenance ( semi monthly ) ( 12 ),,,"$ 10,800.00",2023-08
-2023-08-18,33,,,Ground Service,11,BMP removal - stockpile area ( 1 ),,,"$ 1,500.00",2023-08
-2023-08-18,33,,,Ground Service,12,Stockpile ( 1 ),,,"$ 1,300.56",2023-08
-2023-08-18,33,,,Ground Service,13,Starm water pollution prevention plan amendment ( 1 ),,,"$ 1,800.00",2023-08
-2023-08-18,33,,,Ground Service,14,Maintenance inspections ( 52 ),,,"$ 11,700.00",2023-08
-2023-08-18,33,,,Ground Service,15,Quarterly non - strorm water report ( 4 ),,,"$ 1,200.00",2023-08
-2023-08-18,33,,,Ground Service,16,Rain event inspections ( 12 ),,,"$ 6,000.00",2023-08
-2023-08-18,33,,,Ground Service,17,Annual report ( 1 ),,,"$ 2,350.00",2023-08
-2023-08-18,33,,,Ground Service,18,Notice of termination ( 1 ),,,$ 875.00,2023-08
-2023-09-20,34,"$ 142,593.00",,,,,,,,2023-09
-2023-09-20,34,,,Ground Service,1,Construction entrance ( 1 ),,,"$ 2,550.00",2023-09
-2023-09-20,34,,,Ground Service,2,Shaker plate ( 3 plates for 12 months ),,,"$ 4,900.00",2023-09
-2023-09-20,34,,,Ground Service,3,"Gravel tags ( 4,200 )",,,"$ 7,560.00",2023-09
-2023-09-20,34,,,Ground Service,4,"Gravel bags ( 5,270 )",,,"$ 9,485.00",2023-09
-2023-09-20,34,,,Ground Service,5,"Hydro - seeding ( 199,300 sqft )",,,"$ 15,951.44",2023-09
-2023-09-20,34,,,Ground Service,6,BMP stockpile ( 1 ),,,"$ 1,500.00",2023-09
-2023-09-20,34,,,Ground Service,7,BMP renoval ( 1 ),,,"$ 4,200.00",2023-09
-2023-09-20,34,,,Ground Service,8,Area drain inlet protection ( 81 ),,,"$ 2,025.00",2023-09
-2023-09-20,34,,,Ground Service,9,Storm d'ain inlet protecion ( 3 ),,,$ 225.00,2023-09
-2023-09-20,34,,,Ground Service,10,BMP maintenance ( serri monthly ) ( 12 ),,,"$ 10,800.00",2023-09
-2023-09-20,34,,,Ground Service,11,BMP renoval - stockpie area ( 1 ),,,"$ 1,500.00",2023-09
-2023-09-20,34,,,Ground Service,"12 
+2023-08-18,33,"140,913.00",,Ground Service Technology,,,,,,2023-08
+2023-08-18,33,,,Ground Service Technology,1,Construction entrance ( 1 ),,,"$ 2,650.00",2023-08
+2023-08-18,33,,,Ground Service Technology,2,Shaker plate ( 3 plates for 12 months ),,,"$ 4,900.00",2023-08
+2023-08-18,33,,,Ground Service Technology,3,"Gravel bags ( 4,200 )",,,"$ 7,560.00",2023-08
+2023-08-18,33,,,Ground Service Technology,4,"Gravel bags ( 5,270 )",,,"$ 9,486.00",2023-08
+2023-08-18,33,,,Ground Service Technology,5,"Hydro - seeding ( 199,393 sqft )",,,"$ 15,951.44",2023-08
+2023-08-18,33,,,Ground Service Technology,6,BMP stockpile ( 1 ),,,"$ 1,500.00",2023-08
+2023-08-18,33,,,Ground Service Technology,7,BMP removal ( 1 ),,,"$ 4,200.00",2023-08
+2023-08-18,33,,,Ground Service Technology,8,Area drain inlet protection ( 81 ),,,"$ 2,025.00",2023-08
+2023-08-18,33,,,Ground Service Technology,9,Storm drain inlet protection ( 3 ),,,$ 225.00,2023-08
+2023-08-18,33,,,Ground Service Technology,10,BMP maintenance ( semi monthly ) ( 12 ),,,"$ 10,800.00",2023-08
+2023-08-18,33,,,Ground Service Technology,11,BMP removal - stockpile area ( 1 ),,,"$ 1,500.00",2023-08
+2023-08-18,33,,,Ground Service Technology,12,Stockpile ( 1 ),,,"$ 1,300.56",2023-08
+2023-08-18,33,,,Ground Service Technology,13,Starm water pollution prevention plan amendment ( 1 ),,,"$ 1,800.00",2023-08
+2023-08-18,33,,,Ground Service Technology,14,Maintenance inspections ( 52 ),,,"$ 11,700.00",2023-08
+2023-08-18,33,,,Ground Service Technology,15,Quarterly non - strorm water report ( 4 ),,,"$ 1,200.00",2023-08
+2023-08-18,33,,,Ground Service Technology,16,Rain event inspections ( 12 ),,,"$ 6,000.00",2023-08
+2023-08-18,33,,,Ground Service Technology,17,Annual report ( 1 ),,,"$ 2,350.00",2023-08
+2023-08-18,33,,,Ground Service Technology,18,Notice of termination ( 1 ),,,$ 875.00,2023-08
+2023-09-20,34,"$ 142,593.00",,Ground Service Technology,,,,,,2023-09
+2023-09-20,34,,,Ground Service Technology,1,Construction entrance ( 1 ),,,"$ 2,550.00",2023-09
+2023-09-20,34,,,Ground Service Technology,2,Shaker plate ( 3 plates for 12 months ),,,"$ 4,900.00",2023-09
+2023-09-20,34,,,Ground Service Technology,3,"Gravel tags ( 4,200 )",,,"$ 7,560.00",2023-09
+2023-09-20,34,,,Ground Service Technology,4,"Gravel bags ( 5,270 )",,,"$ 9,485.00",2023-09
+2023-09-20,34,,,Ground Service Technology,5,"Hydro - seeding ( 199,300 sqft )",,,"$ 15,951.44",2023-09
+2023-09-20,34,,,Ground Service Technology,6,BMP stockpile ( 1 ),,,"$ 1,500.00",2023-09
+2023-09-20,34,,,Ground Service Technology,7,BMP renoval ( 1 ),,,"$ 4,200.00",2023-09
+2023-09-20,34,,,Ground Service Technology,8,Area drain inlet protection ( 81 ),,,"$ 2,025.00",2023-09
+2023-09-20,34,,,Ground Service Technology,9,Storm d'ain inlet protecion ( 3 ),,,$ 225.00,2023-09
+2023-09-20,34,,,Ground Service Technology,10,BMP maintenance ( serri monthly ) ( 12 ),,,"$ 10,800.00",2023-09
+2023-09-20,34,,,Ground Service Technology,11,BMP renoval - stockpie area ( 1 ),,,"$ 1,500.00",2023-09
+2023-09-20,34,,,Ground Service Technology,"12 
 13","Stockpia ( 1 ) 
 Storm water pollution prevention plan amendment",,,"$ 1,300.56 
 $ 1,900.00",2023-09
-2023-09-20,34,,,Ground Service,14,"amendment ( 1 ) 
+2023-09-20,34,,,Ground Service Technology,14,"amendment ( 1 ) 
 Maintenance inspections",,,"$ 
 $ 11,700.00",2023-09
-2023-09-20,34,,,Ground Service,,Maintenance inspections ( 52 ),,,"$ 11,700.00 
+2023-09-20,34,,,Ground Service Technology,,Maintenance inspections ( 52 ),,,"$ 11,700.00 
 $ 1,200.00",2023-09
-2023-09-20,34,,,Ground Service,"15 
+2023-09-20,34,,,Ground Service Technology,"15 
 16",Rain event inspections ( 12 ) Quarterly non - strom water report ( 4 ),,,"$ 1,200.00 
 $ 6,000.00",2023-09
-2023-09-20,34,,,Ground Service,17,Annual report ( 1 ),,,"$ 2,350.00",2023-09
-2023-09-20,34,,,Ground Service,18,Notice of termination ( 1,,,$ 375.00,2023-09
-2023-09-20,34,,,Ground Service,,,,,,2023-09
+2023-09-20,34,,,Ground Service Technology,17,Annual report ( 1 ),,,"$ 2,350.00",2023-09
+2023-09-20,34,,,Ground Service Technology,18,Notice of termination ( 1,,,$ 375.00,2023-09
+2023-09-20,34,,,Ground Service Technology,,,,,,2023-09

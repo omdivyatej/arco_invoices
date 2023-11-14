@@ -1,419 +1,415 @@
 InvoiceDate,InvoiceNumber,Total,Project_Name,SupplierName,Item,Description,Qty,Unit_Price,Amount,Month
-2023-02-15,922334.0,1660380.02,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO22B,Stripping for Trailer Parking,1.0,"$ 7,500.00",$ 7500,2023-02
-2023-02-15,922334.0,1660380.02,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO23A,Reshape Rear Slope / Hydroseed,1.0,"7,500.00 
+2023-02-15,922334.0,1660380.02,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO22B,Stripping for Trailer Parking,1.0,"$ 7,500.00",$ 7500,2023-02
+2023-02-15,922334.0,1660380.02,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO23A,Reshape Rear Slope / Hydroseed,1.0,"7,500.00 
 $ 57,267.26","$ 57,267.26",2023-02
-2023-02-15,922334.0,1660380.02,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO23B,West Driveway Repair / Subdrain,1.0,"$ 20,402.87","$ 20,402.87",2023-02
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,,,,,,2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,5.0,Erosion Control @ Site,"4,300.00",$ 12.65,"$ 54,395.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,10.0,Tree Clearing @ Sile,1.00,"$ 63,000.00","$ 63,000.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,20.0,Removal of Trees @ Keating,1.00,"$ 17,396,00","$ 17,396.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,30.0,Traffic Maint @ Tree Clearing,1.00,"$ 1,200.00","$ 1,200.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,40.0,Police Details,2.00,$ 440.00,$ 880.00,2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,50.0,Excavate Test Pits - Kenting H2O,1.00,"$ 3,788.00","$ 3,788.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,60.0,Mobilization,1.00,"$ 12,677.29","$ 12,677.29",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,65.0,Grubbing,1.00,"$ 49,804.85","$ 49,804.85",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,68.0,Construction Entrance,2.00,$ 926.53,"$ 1,853.06",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,70.0,Pulverize Asphalt Parking,1.00,"$ 5,324.92","$ 5,324.92",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,72.0,"Strip & Stockpile Loam ( 12 "" )","20,000.00",$ 4.66,"$ 93,000.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,75.0,Excavate & Place Fils,"111,000.00",$ 2.82,"$ 313,020.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,80.0,6 * Sch40 - Malline Sewer & Manhole,803.00,$ 107.15,"$ 86,041.45",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,85.0,Septic Tanks,1.00,"$ 50,578.52","$ 50,578.52",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,86.0,Pump Chamber Tank # 1 / 1 HP Pump,1.00,"$ 19,216.13","$ 19,216.13",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,87.0,Dosing Chamber Tank / 3HP Pumps,1.00,"$ 55,185.22","$ 55,185.22",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,90.0,6 * Sewer Services,140.00,$ 35.34,"$ 4,947.60",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,95.0,Force Main - 2,850.00,$ 25.25,"$ 21,462.50",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,96.0,"Force Main - 4 "" to Septic Syst",400.00,$ 28.96,"$ 11,584.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,98.0,Presby - Septic Systems & Sand,1.00,"249,860.15","$ 249,860.15",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,99.0,Valve Pit Manhole -5 ' Dia,1.00,"$ 6,798.94","$ 6,798.94",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,100.0,Cleanout Manhole,1.00,"$ 7,288.20","$ 7,288.20",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,105.0,8 ° Dia Water Main,1.00,"264,315.78","$ 264,315.78",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,110.0,Service Lines - Fire & Domestic,1.00,"$ 13,227.57","$ 13,227.57",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,120.0,"Hydrant / 8 "" Lateral / Gate / Bollrd",7.00,"$ 7,594.57","$ 53,161.99",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,125.0,Rel Keating Water Line / Gate,"1,650.00",$ 112.99,"$ 186,433.50",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,130.0,Drainage Pipe & Manholes,1.00,"466,895.53","$ 466,895.53",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,135.0,Wate Quality Units - Hydroworks,6.00,"$ 28,446.02","$ 170,676.12",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,140.0,Catch Basins & Double CB's,35.00,"$ 4,389.44","$ 153,630.40",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,150.0,Drain Underground Storage Syst,1.00,"502,887.41","$ 502,887.41",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,200.0,Exc / Subgrade / Backfill Building,1.00,"148,992.29","$ 148,992.29",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,210.0,"F & I Gravel Base ( 12 "" ) - Building","14,000.00",$ 34.57,"$ 483,980.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,220.0,"F & I Gravel Base ( 12 "" ) - Load Bay","7,700.00",$ 11.97,"$ 92,169.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,230.0,"F & I Roadway Base ( 12 "" HD / B'LD )",1.00,"455,446.00","$ 455,446.00",2023-08
-2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,300.0,E & B Gas Service & Sand,"850,00",$ 11.12,$ 9.452.00,2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,,,,,,2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO18,Summit GeoEngineering Inspect,1.00,"$ 5,355.00","$ 5,355.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO24,Settlement Agreement,1.00,"400,000.00","$ 400,000.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO07A,Mobilization,1.00,"$ 2,000.00","$ 2,000.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO07B,Fine Grading - Spread Loamn,1.00,"$ 55,712.00","$ 55,712.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO07C,"F & I Deciduous Trees - 2 "" Caliper",40.00,$ 450.00,"$ 18,000.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO07D,"F & I Shrubs - 18-24 "" H",316.00,$ 64.00,"$ 20,224.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO07E,F & I Perennials - 1 Gallon,"1,000.00",$ 27.00,"$ 27,000.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO07F,Mulch New Plantings,1.00,"$ 13,277.00","$ 13,277.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,C007G,"Hydroseed Lawn Areas - 300,000SF",1.00,"$ 49,500.00","$ 49,500.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO10A,"Fuse & Install 12 "" HDPE Relief",180.00,$ 77.11,"$ 13,879.80",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO10B,Crush / RepL Rubble Fills MH2,220.00,$ 291.10,"$ 64,042,00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO10C,Manholes # 1 & 2,2.00,"$ 4,816.86","$ 9,633.72",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO10D,Cleanout Manholes,2.00,"$ 2,753.37","$ 5,506.74",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO10E,Crush / Repl Rubb Fill - Curtain D,80.00,$ 417.81,"$ 33,424.80",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO10F,Curtain Drain,330.00,$ 313.20,"$ 103,356.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO10G,Clearing & Silt Fence,1.00,"$ 4,000.00","$ 4,000.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO19A,Revised Testing Costs,1.00,"$ 7,528.50","$ 7,528.50",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO198,"Submitted on 10/23/22 
+2023-02-15,922334.0,1660380.02,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO23B,West Driveway Repair / Subdrain,1.0,"$ 20,402.87","$ 20,402.87",2023-02
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,,,,,,2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,5.0,Erosion Control @ Site,"4,300.00",$ 12.65,"$ 54,395.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,10.0,Tree Clearing @ Sile,1.00,"$ 63,000.00","$ 63,000.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,20.0,Removal of Trees @ Keating,1.00,"$ 17,396,00","$ 17,396.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,30.0,Traffic Maint @ Tree Clearing,1.00,"$ 1,200.00","$ 1,200.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,40.0,Police Details,2.00,$ 440.00,$ 880.00,2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,50.0,Excavate Test Pits - Kenting H2O,1.00,"$ 3,788.00","$ 3,788.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,60.0,Mobilization,1.00,"$ 12,677.29","$ 12,677.29",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,65.0,Grubbing,1.00,"$ 49,804.85","$ 49,804.85",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,68.0,Construction Entrance,2.00,$ 926.53,"$ 1,853.06",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,70.0,Pulverize Asphalt Parking,1.00,"$ 5,324.92","$ 5,324.92",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,72.0,"Strip & Stockpile Loam ( 12 "" )","20,000.00",$ 4.66,"$ 93,000.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,75.0,Excavate & Place Fils,"111,000.00",$ 2.82,"$ 313,020.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,80.0,6 * Sch40 - Malline Sewer & Manhole,803.00,$ 107.15,"$ 86,041.45",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,85.0,Septic Tanks,1.00,"$ 50,578.52","$ 50,578.52",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,86.0,Pump Chamber Tank # 1 / 1 HP Pump,1.00,"$ 19,216.13","$ 19,216.13",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,87.0,Dosing Chamber Tank / 3HP Pumps,1.00,"$ 55,185.22","$ 55,185.22",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,90.0,6 * Sewer Services,140.00,$ 35.34,"$ 4,947.60",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,95.0,Force Main - 2,850.00,$ 25.25,"$ 21,462.50",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,96.0,"Force Main - 4 "" to Septic Syst",400.00,$ 28.96,"$ 11,584.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,98.0,Presby - Septic Systems & Sand,1.00,"249,860.15","$ 249,860.15",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,99.0,Valve Pit Manhole -5 ' Dia,1.00,"$ 6,798.94","$ 6,798.94",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,100.0,Cleanout Manhole,1.00,"$ 7,288.20","$ 7,288.20",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,105.0,8 ° Dia Water Main,1.00,"264,315.78","$ 264,315.78",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,110.0,Service Lines - Fire & Domestic,1.00,"$ 13,227.57","$ 13,227.57",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,120.0,"Hydrant / 8 "" Lateral / Gate / Bollrd",7.00,"$ 7,594.57","$ 53,161.99",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,125.0,Rel Keating Water Line / Gate,"1,650.00",$ 112.99,"$ 186,433.50",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,130.0,Drainage Pipe & Manholes,1.00,"466,895.53","$ 466,895.53",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,135.0,Wate Quality Units - Hydroworks,6.00,"$ 28,446.02","$ 170,676.12",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,140.0,Catch Basins & Double CB's,35.00,"$ 4,389.44","$ 153,630.40",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,150.0,Drain Underground Storage Syst,1.00,"502,887.41","$ 502,887.41",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,200.0,Exc / Subgrade / Backfill Building,1.00,"148,992.29","$ 148,992.29",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,210.0,"F & I Gravel Base ( 12 "" ) - Building","14,000.00",$ 34.57,"$ 483,980.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,220.0,"F & I Gravel Base ( 12 "" ) - Load Bay","7,700.00",$ 11.97,"$ 92,169.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,230.0,"F & I Roadway Base ( 12 "" HD / B'LD )",1.00,"455,446.00","$ 455,446.00",2023-08
+2023-08-25,922888.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,300.0,E & B Gas Service & Sand,"850,00",$ 11.12,$ 9.452.00,2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,,,,,,2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO18,Summit GeoEngineering Inspect,1.00,"$ 5,355.00","$ 5,355.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO24,Settlement Agreement,1.00,"400,000.00","$ 400,000.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO07A,Mobilization,1.00,"$ 2,000.00","$ 2,000.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO07B,Fine Grading - Spread Loamn,1.00,"$ 55,712.00","$ 55,712.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO07C,"F & I Deciduous Trees - 2 "" Caliper",40.00,$ 450.00,"$ 18,000.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO07D,"F & I Shrubs - 18-24 "" H",316.00,$ 64.00,"$ 20,224.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO07E,F & I Perennials - 1 Gallon,"1,000.00",$ 27.00,"$ 27,000.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO07F,Mulch New Plantings,1.00,"$ 13,277.00","$ 13,277.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,C007G,"Hydroseed Lawn Areas - 300,000SF",1.00,"$ 49,500.00","$ 49,500.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO10A,"Fuse & Install 12 "" HDPE Relief",180.00,$ 77.11,"$ 13,879.80",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO10B,Crush / RepL Rubble Fills MH2,220.00,$ 291.10,"$ 64,042,00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO10C,Manholes # 1 & 2,2.00,"$ 4,816.86","$ 9,633.72",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO10D,Cleanout Manholes,2.00,"$ 2,753.37","$ 5,506.74",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO10E,Crush / Repl Rubb Fill - Curtain D,80.00,$ 417.81,"$ 33,424.80",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO10F,Curtain Drain,330.00,$ 313.20,"$ 103,356.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO10G,Clearing & Silt Fence,1.00,"$ 4,000.00","$ 4,000.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO19A,Revised Testing Costs,1.00,"$ 7,528.50","$ 7,528.50",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO198,"Submitted on 10/23/22 
 Additional 30 LF",1.00,"$ 2,596.36","$ 2,596.36",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO19C,,1.00,"$ 3,214.50","$ 3,214.50",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO19D,Line Striping & Signs @ Park L,1.00,"$ 20,607.94","$ 20,607.94",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO19E,Addt'l Signs - Leominster - Shirle,1.00,"$ 8,741.69","$ 8,741.69",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO19F,Remove & Reset Exist Hydrant,1.00,"$ 6,132.00","$ 6,132.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO19G,"Addt'l Depth for "" Bench Exc",1.00,"$ 12,935.06","$ 12,935.06",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO19H,Exc & Prap Landing Gear Areat,1.00,"$ 15,525.80","$ 15,525.80",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO20A,Generator Gas Trenching,1.00,"$ 1,034.00","$ 1,034.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO20B,Manolithic Curb Prop,1.00,"$ 14,012.25","$ 14,012.25",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,"CO20C 
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO19C,,1.00,"$ 3,214.50","$ 3,214.50",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO19D,Line Striping & Signs @ Park L,1.00,"$ 20,607.94","$ 20,607.94",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO19E,Addt'l Signs - Leominster - Shirle,1.00,"$ 8,741.69","$ 8,741.69",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO19F,Remove & Reset Exist Hydrant,1.00,"$ 6,132.00","$ 6,132.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO19G,"Addt'l Depth for "" Bench Exc",1.00,"$ 12,935.06","$ 12,935.06",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO19H,Exc & Prap Landing Gear Areat,1.00,"$ 15,525.80","$ 15,525.80",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO20A,Generator Gas Trenching,1.00,"$ 1,034.00","$ 1,034.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO20B,Manolithic Curb Prop,1.00,"$ 14,012.25","$ 14,012.25",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,"CO20C 
 CO20D","Granite Curbing 
 MII & Shim",1.00,"$ 28,022,80","$ 28,022.80",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO20D,,1.00,"$ 10,662.00","$ 10,662.00",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,"CO20E 
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO20D,,1.00,"$ 10,662.00","$ 10,662.00",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,"CO20E 
 CO20F","E & B Monument Sign 
 Downspout Splash Pads",1.00,$ 804.00,$ 804.00,2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,"CO20F 
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,"CO20F 
 CO20G","Downspout Splash Pads 
 Transformer Bollards","1.00 
 1.00","$ 3,537.60","$ 3,537.60",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,,,1.00,"$ 2,747.73","$ 2,747.73",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,"CO20H 
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,,,1.00,"$ 2,747.73","$ 2,747.73",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,"CO20H 
 CO21A","Rip - Rap 
 Interior Sanitary Repair",1.00,"$ 17,996.50","$ 17,996.50",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO21B,Addt ! Fire Loop Gate Valve,1.00,"$ 3,442.63","$ 3,442.63",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO21B,Addt ! Fire Loop Gate Valve,"1.00 
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO21B,Addt ! Fire Loop Gate Valve,1.00,"$ 3,442.63","$ 3,442.63",2023-08
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO21B,Addt ! Fire Loop Gate Valve,"1.00 
 1.00","$ 1,715.57","$ 1,715.57",2023-08
-2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO22A,Addt's Work Interior Pourback,1.00,"$ 77,886.05",$ 77.886.05,2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO22B,Stripping for Trailer Parking,1.0,"$ 7,500.00","$ 7,500.00",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO23A,Reshape Rear Slope / Hydroseed,1.0,"$ 57,267.26","$ 57,267.26",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO238,West Driveway Repair / Subdrain,1.0,"$ 20,402.87","$ 20,402.87",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO25A,Interior Electrical Trenching,1.0,"$ 1,609.00","$ 1,609.00",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO258,Casting Bed Prep & Removal,1.0,"$ 11,621.00","$ 11,621.00",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO25C,Addtl Handicap Parking,1.0,"$ 10,000.00","$ 10,000.00",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,C025D,North Sidewalk Regrading,1.0,"$ 12,471.82","$ 12,471.82",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO25E,Above Ground Fire Loop Connect,1.0,"$ 2,923,29","$ 2,923.29",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO25F,Landscape Irrigation,1.0,"$ 31,568.00","$ 31,568.00",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO26A,Ice & Landscape Cleanup,1.0,"$ 2,917.93","$ 2,917.93",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO26B,Sidewalk Panel Replacement,1.0,"$ 4,674.45","$ 4,674.45",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO28C,Snow Plowing,1.0,$ 872.00,$ 872.00,2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO27A,South Parking Lot Changes,1.0,"$ 22,515.39","$ 22,515.39",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO27B,Grading for Concrete infille,1.0,$ 300.00,$ 300.00,2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO27C,Add1 Handicap Parking / Bollard,1.0,"$ 10,000.00","$ 10,000.00",2023-08
-2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,,CO27D,North Sidewalk Regrading,1.0,"$ 7,830.00","$ 7,830.00",2023-08
-2023-07-25,,31058.0,EX - 22-0005 /,"Onyx
-",10,Load / Oversize Seg / Stockpile,"133,056.00",$ 0.75,"$ 99,792.000",2023-07
-2023-07-25,,31058.0,EX - 22-0005 /,"Onyx
-",20,Hauling - West Boylston Pit,"41,794.00",$ 5.00,"$ 208,970.00",2023-07
-2023-07-25,,31058.0,EX - 22-0005 /,"Onyx
-",30,Hauling - Sterling Pit,"91,262.00",$ 5.75,"$ 524,765.50",2023-07
-2023-07-25,,31058.0,EX - 22-0005 /,"Onyx
-",40,Material Hauling - Hourly Rate,909.25,$ 150.00,"$ 136,387.50",2023-07
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,,,,2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,5,Erosion Control @ Site,"4,300.00",$ 12.65,"$ 54,395.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,10,Tree Clearing @ Site,1.00,"$ 63,000.00","$ 63,000.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,20,Removal of Trees @ Keating,1.00,"$ 17,396.00","$ 17,396.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,30,Traffic Maint @ Tree Clearing,1.00,"$ 1,200.00","$ 1,200.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,40,Police Details,2.00,$ 440.00,$ 880.00,2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"50 
+2023-08-25,922868.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO22A,Addt's Work Interior Pourback,1.00,"$ 77,886.05",$ 77.886.05,2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO22B,Stripping for Trailer Parking,1.0,"$ 7,500.00","$ 7,500.00",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO23A,Reshape Rear Slope / Hydroseed,1.0,"$ 57,267.26","$ 57,267.26",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO238,West Driveway Repair / Subdrain,1.0,"$ 20,402.87","$ 20,402.87",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO25A,Interior Electrical Trenching,1.0,"$ 1,609.00","$ 1,609.00",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO258,Casting Bed Prep & Removal,1.0,"$ 11,621.00","$ 11,621.00",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO25C,Addtl Handicap Parking,1.0,"$ 10,000.00","$ 10,000.00",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,C025D,North Sidewalk Regrading,1.0,"$ 12,471.82","$ 12,471.82",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO25E,Above Ground Fire Loop Connect,1.0,"$ 2,923,29","$ 2,923.29",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO25F,Landscape Irrigation,1.0,"$ 31,568.00","$ 31,568.00",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO26A,Ice & Landscape Cleanup,1.0,"$ 2,917.93","$ 2,917.93",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO26B,Sidewalk Panel Replacement,1.0,"$ 4,674.45","$ 4,674.45",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO28C,Snow Plowing,1.0,$ 872.00,$ 872.00,2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO27A,South Parking Lot Changes,1.0,"$ 22,515.39","$ 22,515.39",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO27B,Grading for Concrete infille,1.0,$ 300.00,$ 300.00,2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO27C,Add1 Handicap Parking / Bollard,1.0,"$ 10,000.00","$ 10,000.00",2023-08
+2023-08-25,922868.0,1779682.9,EX - 21-0013 / ARCO - Lunenburg Spec Wi,Onyx Corporation,CO27D,North Sidewalk Regrading,1.0,"$ 7,830.00","$ 7,830.00",2023-08
+2023-07-25,,31058.0,EX - 22-0005 /,Onyx Corporation,10,Load / Oversize Seg / Stockpile,"133,056.00",$ 0.75,"$ 99,792.000",2023-07
+2023-07-25,,31058.0,EX - 22-0005 /,Onyx Corporation,20,Hauling - West Boylston Pit,"41,794.00",$ 5.00,"$ 208,970.00",2023-07
+2023-07-25,,31058.0,EX - 22-0005 /,Onyx Corporation,30,Hauling - Sterling Pit,"91,262.00",$ 5.75,"$ 524,765.50",2023-07
+2023-07-25,,31058.0,EX - 22-0005 /,Onyx Corporation,40,Material Hauling - Hourly Rate,909.25,$ 150.00,"$ 136,387.50",2023-07
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,,,,2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,5,Erosion Control @ Site,"4,300.00",$ 12.65,"$ 54,395.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,10,Tree Clearing @ Site,1.00,"$ 63,000.00","$ 63,000.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,20,Removal of Trees @ Keating,1.00,"$ 17,396.00","$ 17,396.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,30,Traffic Maint @ Tree Clearing,1.00,"$ 1,200.00","$ 1,200.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,40,Police Details,2.00,$ 440.00,$ 880.00,2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"50 
 60","Excavate Test Pits - Keating H2O 
 Mobilization",1.00,"$ 3,788.00","$ 3,788.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,60,Mobilization,1.00,"$ 12,677.29","$ 12,677.29",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"65 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,60,Mobilization,1.00,"$ 12,677.29","$ 12,677.29",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"65 
 68","Grubbing 
 Construction Entrance",1.00,"$ 49,804.85","$ 49,804.85",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,70,Pulverize Asphalt Parkiing,2.00,$ 926.53,"$ 1,853.06",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,72,"Strip & Stockpile Loam ( 12 "" )",1.00,"$ 5,324.92","$ 5,324.92",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,75,Excavate & Place Fills,"20,000.00 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,70,Pulverize Asphalt Parkiing,2.00,$ 926.53,"$ 1,853.06",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,72,"Strip & Stockpile Loam ( 12 "" )",1.00,"$ 5,324.92","$ 5,324.92",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,75,Excavate & Place Fills,"20,000.00 
 111,000.00","$ 4.65 
 $ 2.82","$ 93,000.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,80,"6 "" Sch40 - Mailine Sewer & Manhole",803.00,"$ 2.82 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,80,"6 "" Sch40 - Mailine Sewer & Manhole",803.00,"$ 2.82 
 $ 107.15","$ 313,020.00 
 $ 86,041.45",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,85,Septic Tanks,1.00,"107.15 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,85,Septic Tanks,1.00,"107.15 
 $ 50,578.52","86,041.45 
 $",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,86,Pump Chamber Tank # 1/1 HP Pump,1.00,"50,578.52 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,86,Pump Chamber Tank # 1/1 HP Pump,1.00,"50,578.52 
 $ 19,216.13","$ 50,578.52 
 $",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,87,Dosing Chamber Tank / 3HP Pumps,1.00,"$ 55,185.22","$ 19,216.13 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,87,Dosing Chamber Tank / 3HP Pumps,1.00,"$ 55,185.22","$ 19,216.13 
 $ 55,185.22",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,90,"6 "" Sewer Services",140.00,$ 35.34,"$ 4,947.60",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,95,"Force Main - 2 """,850.00,$ 25.25,"$ 21,462.50",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,96,"Force Main - 4 "" to Septic Syst",400.00,$ 28.96,"$ 11,584.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,98,Presby - Septic Systems & Sand,1.00,"249,860.15","$ 249,860.15",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,99,Valve Pit Manhole - 5 ' Dia,1.00,"$ 6,798.94","$ 6,798.94",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,100,Cleanout Manhole,1.00,"$ 7,288.20","$ 7,288.20",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,105 8,"8 "" Dia Water Main",1.00,"264,315.78","$ 264,315.78",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,110,Service Lines - Fire & Domestic,1.00,"$ 13,227.57","$ 13,227.57",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,120,"Hydrant / 6 "" Lateral / Gate / Bollrd",7.00,"$ 7,594.57","$ 53,161.99",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,125,Rel Keating Water Line / Gate,"1,650.00",$ 112.99,"$ 186,433.50",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,130,Drainage Pipe & Manholes,1.00,"466,895.53","$ 466,895.53",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,135,Wate Quality Units - Hydroworks,6.00,"$ 28,446.02","$ 170,676.12",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,140,Catch Basins & Double CB's,35.00,"$ 4,389.44","$ 153,630.40",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,150,Drain Underground Storage Syst,1.00,"502,887.41","$ 502,887.41",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,200,Exc / Subgrade / Backfill Building,1.00,"148,992.29","$ 148,992.29",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,210,"F & I Gravel Base ( 12 "" ) - Building","14,000.00",$ 34.57,"$ 483,980.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,220,"F & I Gravel Base ( 12 "" ) - Load Bay","7,700.00",$ 11.97,"$ 92,169.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,230,"F & I Roadway Base ( 12 "" HD / 8 "" LD )",1.00,"455,446.00","$ 455,446.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,200 F,& R Gae Sanira & Cond,950 00,"( 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,90,"6 "" Sewer Services",140.00,$ 35.34,"$ 4,947.60",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,95,"Force Main - 2 """,850.00,$ 25.25,"$ 21,462.50",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,96,"Force Main - 4 "" to Septic Syst",400.00,$ 28.96,"$ 11,584.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,98,Presby - Septic Systems & Sand,1.00,"249,860.15","$ 249,860.15",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,99,Valve Pit Manhole - 5 ' Dia,1.00,"$ 6,798.94","$ 6,798.94",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,100,Cleanout Manhole,1.00,"$ 7,288.20","$ 7,288.20",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,105 8,"8 "" Dia Water Main",1.00,"264,315.78","$ 264,315.78",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,110,Service Lines - Fire & Domestic,1.00,"$ 13,227.57","$ 13,227.57",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,120,"Hydrant / 6 "" Lateral / Gate / Bollrd",7.00,"$ 7,594.57","$ 53,161.99",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,125,Rel Keating Water Line / Gate,"1,650.00",$ 112.99,"$ 186,433.50",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,130,Drainage Pipe & Manholes,1.00,"466,895.53","$ 466,895.53",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,135,Wate Quality Units - Hydroworks,6.00,"$ 28,446.02","$ 170,676.12",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,140,Catch Basins & Double CB's,35.00,"$ 4,389.44","$ 153,630.40",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,150,Drain Underground Storage Syst,1.00,"502,887.41","$ 502,887.41",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,200,Exc / Subgrade / Backfill Building,1.00,"148,992.29","$ 148,992.29",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,210,"F & I Gravel Base ( 12 "" ) - Building","14,000.00",$ 34.57,"$ 483,980.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,220,"F & I Gravel Base ( 12 "" ) - Load Bay","7,700.00",$ 11.97,"$ 92,169.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,230,"F & I Roadway Base ( 12 "" HD / 8 "" LD )",1.00,"455,446.00","$ 455,446.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,200 F,& R Gae Sanira & Cond,950 00,"( 
 11 12",$ 0 157 00,2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,,,,2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO18,Summit GeoEngineering Inspect,1.00,"$ 5,355.00","$ 5,355.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO24,Settlement Agreement,1.00,"400,000.00","$ 400,000.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO07A,Mobilization,1.00,"$ 2,000.00","$ 2,000.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO07B,Fine Grading - Spread Loam,1.00,"$ 55,712.00","$ 55,712.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO07C,"F & I Deciduous Trees - 2 "" Caliper",40.00,$ 450.00,"$ 18,000.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO07D,"F & I Shrubs - 18-24 "" Ht",316.00,$ 64.00,"$ 20,224.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO07E,F & I Perennials- 1 Gallon,"1,000.00",$ 27.00,"$ 27,000.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO07F,Mulch New Plantings,1.00,"$ 13,277.00","$ 13,277.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO07G,"Hydroseed Lawn Areas - 300,000SF",1.00,"$ 49,500.00","$ 49,500.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO10A,"Fuse & Install 12 "" HDPE Relief",180.00,$ 77.11,"$ 13,879.80",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO10B,Crush / RepL Rubble Fills MH2,220.00,$ 291.10,"$ 64,042.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO10C,Manholes # 1 & 2,2.00,"$ 4,816.86","$ 9,633.72",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO10D,Cleanout Manholes,2.00,"$ 2,753.37","$ 5,506.74",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO10E,Crush / Repl Rubb Fill - Curtain D,80.00,$ 417.81,"$ 33,424.80",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO10F,Curtain Drain,330.00,$ 313.20,"$ 103,356.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO10G,Clearing & Silt Fence,1.00,"$ 4,000.00","$ 4,000.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO19A,Revised Testing Costs,1.00,"$ 7,528.50","$ 7,528.50",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO19B,Submitted on 10/23/22,1.00,"$ 2,596.36","$ 2,596.36",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO19C,Additional 30 LF,1.00,"$ 3,214.50","$ 3,214.50",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO19D,Line Striping & Signs @ Park L,1.00,"$ 20,607.94","$ 20,607.94",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO19E,Addt'l Signs - Leominster - Shirle,1.00,"$ 8,741.69","$ 8,741.69",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO19F,Remove & Reset Exist Hydrant,1.00,"$ 6,132.00","$ 6,132.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO19G,"Addt'l Depth for "" Bench "" Exc",1.00,"$ 12,935.06","$ 12,935.06",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO19H,Exc & Prep Landing Gear Areas,1.00,"$ 15,525.80","$ 15,525.80",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO20A,Generator Gas Trenching,1.00,"$ 1,034.00","$ 1,034.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO20B,Monolithic Curb Prep,1.00,"$ 14,012.25","$ 14,012.25",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO20C,Granite Curbing,1.00,"$ 28,022.80","$ 28,022.80",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO20D,Mill & Shim,1.00,"$ 10,662.00","$ 10,662.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO20E,E & B Monument Sign,1.00,$ 804.00,$ 804.00,2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO20F,Downspout Splash Pads,1.00,"$ 3,537.60","$ 3,537.60",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO20G,Transformer Bollards,1.00,"$ 2,747.73","$ 2,747.73",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO20H,Rip - Rap,1.00,"$ 17,996.50","$ 17,996.50",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO21A,Interior Sanitary Repair,1.00,"$ 3,442.63","$ 3,442.63",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO21B,Addt'l Fire Loop Gate Valve,1.00,"$ 1,715.57","$ 1,715.57",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO2,Add Work Interior Pourhark,100,"$ 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,,,,2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO18,Summit GeoEngineering Inspect,1.00,"$ 5,355.00","$ 5,355.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO24,Settlement Agreement,1.00,"400,000.00","$ 400,000.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO07A,Mobilization,1.00,"$ 2,000.00","$ 2,000.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO07B,Fine Grading - Spread Loam,1.00,"$ 55,712.00","$ 55,712.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO07C,"F & I Deciduous Trees - 2 "" Caliper",40.00,$ 450.00,"$ 18,000.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO07D,"F & I Shrubs - 18-24 "" Ht",316.00,$ 64.00,"$ 20,224.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO07E,F & I Perennials- 1 Gallon,"1,000.00",$ 27.00,"$ 27,000.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO07F,Mulch New Plantings,1.00,"$ 13,277.00","$ 13,277.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO07G,"Hydroseed Lawn Areas - 300,000SF",1.00,"$ 49,500.00","$ 49,500.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO10A,"Fuse & Install 12 "" HDPE Relief",180.00,$ 77.11,"$ 13,879.80",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO10B,Crush / RepL Rubble Fills MH2,220.00,$ 291.10,"$ 64,042.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO10C,Manholes # 1 & 2,2.00,"$ 4,816.86","$ 9,633.72",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO10D,Cleanout Manholes,2.00,"$ 2,753.37","$ 5,506.74",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO10E,Crush / Repl Rubb Fill - Curtain D,80.00,$ 417.81,"$ 33,424.80",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO10F,Curtain Drain,330.00,$ 313.20,"$ 103,356.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO10G,Clearing & Silt Fence,1.00,"$ 4,000.00","$ 4,000.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO19A,Revised Testing Costs,1.00,"$ 7,528.50","$ 7,528.50",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO19B,Submitted on 10/23/22,1.00,"$ 2,596.36","$ 2,596.36",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO19C,Additional 30 LF,1.00,"$ 3,214.50","$ 3,214.50",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO19D,Line Striping & Signs @ Park L,1.00,"$ 20,607.94","$ 20,607.94",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO19E,Addt'l Signs - Leominster - Shirle,1.00,"$ 8,741.69","$ 8,741.69",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO19F,Remove & Reset Exist Hydrant,1.00,"$ 6,132.00","$ 6,132.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO19G,"Addt'l Depth for "" Bench "" Exc",1.00,"$ 12,935.06","$ 12,935.06",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO19H,Exc & Prep Landing Gear Areas,1.00,"$ 15,525.80","$ 15,525.80",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO20A,Generator Gas Trenching,1.00,"$ 1,034.00","$ 1,034.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO20B,Monolithic Curb Prep,1.00,"$ 14,012.25","$ 14,012.25",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO20C,Granite Curbing,1.00,"$ 28,022.80","$ 28,022.80",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO20D,Mill & Shim,1.00,"$ 10,662.00","$ 10,662.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO20E,E & B Monument Sign,1.00,$ 804.00,$ 804.00,2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO20F,Downspout Splash Pads,1.00,"$ 3,537.60","$ 3,537.60",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO20G,Transformer Bollards,1.00,"$ 2,747.73","$ 2,747.73",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO20H,Rip - Rap,1.00,"$ 17,996.50","$ 17,996.50",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO21A,Interior Sanitary Repair,1.00,"$ 3,442.63","$ 3,442.63",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO21B,Addt'l Fire Loop Gate Valve,1.00,"$ 1,715.57","$ 1,715.57",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO2,Add Work Interior Pourhark,100,"$ 
 77 996 05",$ 77 996 NE,2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,310,E & B & Pour - Primary Electric,"1,170.00",$ 54.04,"$ 63,226.80",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,400,Prep Binder & Fine Grade,"43,000.00",$ 1.32,"$ 56,760.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,420,Gravel Prep Concrete Walks,,,"56,760.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,430,Exc Mod Block Walls & Stone,"10,500.00 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,310,E & B & Pour - Primary Electric,"1,170.00",$ 54.04,"$ 63,226.80",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,400,Prep Binder & Fine Grade,"43,000.00",$ 1.32,"$ 56,760.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,420,Gravel Prep Concrete Walks,,,"56,760.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,430,Exc Mod Block Walls & Stone,"10,500.00 
 2,180.00","$ 2.92 
 $","$ 30,660.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,440,Screen / ReSpread Loam / Hydroseed,"2,180.00",$ 7.15,"$ 15,587.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,450,Inf Basin # 1 & Access Road,"4,500.00",$ 31.13,"$ 140,085.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,455,Inf Basin # 2,1.00,"$ 67,057.24","$ 67,057.24",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,1.00,"163,694.96","$ 163,694.96",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"460 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,440,Screen / ReSpread Loam / Hydroseed,"2,180.00",$ 7.15,"$ 15,587.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,450,Inf Basin # 1 & Access Road,"4,500.00",$ 31.13,"$ 140,085.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,455,Inf Basin # 2,1.00,"$ 67,057.24","$ 67,057.24",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,1.00,"163,694.96","$ 163,694.96",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"460 
 550","Berm Shaping 
 F & I Light Bases",1.00,"$ 8,968.68","$ 8,968.68",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,560,E & B Site Lighting w / Sand,37.00,"$ 2,268.29","$ 83,926.73",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"560 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,560,E & B Site Lighting w / Sand,37.00,"$ 2,268.29","$ 83,926.73",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"560 
 600","E & B Site Lighting w / Sand 
 Roadway Widening - Headwall / Curb","4,580.00",$ 8.37,"$ 38,334.60",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,600,Roadway Widening - Headwall / Curb,1.00,"$ 58,963.45","$ 58,963.45",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,720,Base Orange - Exc / Recompact,"29,500.00",$ 3.81,"$ 112,395.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,730,Base Blue - Exc / Recompact,"21,000.00",$ 3.86,"$ 81,060.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,740,Base Purple / Exc & Jaw Crush,"25,600.00",$ 12.85,"$ 328,960.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,750,Alt - Purple - Exc & Refill,"33,900.00",$ 2.94,"$ 99,666.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,760,Alt - Green - Exc & Refill,"68,000.00",$ 2.95,"$ 200,600.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"1010 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,600,Roadway Widening - Headwall / Curb,1.00,"$ 58,963.45","$ 58,963.45",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,720,Base Orange - Exc / Recompact,"29,500.00",$ 3.81,"$ 112,395.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,730,Base Blue - Exc / Recompact,"21,000.00",$ 3.86,"$ 81,060.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,740,Base Purple / Exc & Jaw Crush,"25,600.00",$ 12.85,"$ 328,960.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,750,Alt - Purple - Exc & Refill,"33,900.00",$ 2.94,"$ 99,666.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,760,Alt - Green - Exc & Refill,"68,000.00",$ 2.95,"$ 200,600.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"1010 
 1070","Turnkey @ Widening Paving - 4 "" 
 Backfill Dock Pits",1.00,"$ 23,375.88","$ 23,375.88",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,71.00,$ 228.86,"$ 16,249.06",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,1100,Unclassified Excavation,1.00,"215,000.00","$ 215,000.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,,,"5,935,139.82",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO02,F & I Geo Fabric @ Parking Lot,,,"5,935,139.82",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO03,"Lot 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,71.00,$ 228.86,"$ 16,249.06",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,1100,Unclassified Excavation,1.00,"215,000.00","$ 215,000.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,,,"5,935,139.82",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO02,F & I Geo Fabric @ Parking Lot,,,"5,935,139.82",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO03,"Lot 
 PJ Keating Water Main Repair","22,500.00",$ 0.70,"$ 15,750.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO03,PJ Keating Water Main Repair,1.00,"$ 6,897.62","$ 6,897.62",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO04,"12 "" Fused Relief Drain",1.00,"$ 99,540.00","$ 99,540.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO05,New Remote Riser Line / Changes,1.00,"261,882.11","$ 261,882.11",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO06,E & B Int Plumb / Roof Drain,1.00,"$ 16,629.01","$ 16,629.01",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO08,PJ Keating Pond Outlet Work,1.00,"$ 1,679.00","$ 1,679.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO09,Deduct Hydroseeding ( 440 ),1.00,"$ 18,372.00","- $ 18,372.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO11,Install Additinal Gate Valve,1.00,"$ 3,500.00","$ 3,500.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO12,Repair Column Sleeve,1.00,- $ 399.06,- $ 399.06,2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO13,Updated GPI Left Turn Lane,1.00,"$ 29,015.89","$ 29,015.89",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO14,Ft . Pond Rd Line Stripe / Signs,1.00,"$ 19,835.88","$ 19,835.88",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,C015,Exc Bldg Perimeter Fdn Haunch,1.00,"$ 14,039.00","$ 14,039.00",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO16,Pavement Mark Rem @ Ft Pond,"2,165.00",$ 2.50,"$ 5,412.50",2023-02
-2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,C017,Geogrid at Dock Anron,100,$ 55 745 90,$ 55 745 90,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,,,,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,5,Erosion Control @ Site,"4,300.00",$ 12.65,"$ 54,395.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,10,Tree Clearing @ Site,1.00,"$ 63,000.00","$ 63,000.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,20,Removal of Trees @ Keating,1.00,"$ 17,396.00","$ 17,396.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,30,Traffic Maint @ Tree Clearing,1.00,"$ 1,200.00","$ 1,200.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,40,Police Details,2.00,$ 440.00,$ 880.00,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,50,Excavate Test Pits - Keating H2O,1.00,"$ 3,788.00","$ 3,788.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,60,Mobilization,1.00,"$ 12,677.29","$ 12,677.29",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,65,Grubbing,1.00,"$ 49,804.85","$ 49,804.85",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,68,Construction Entrance,2.00,$ 926.53,"$ 1,853.06",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,70,Pulverize Asphalt Parkling,1.00,"$ 5,324.92","$ 5,324.92",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,72,"Strip & Stockpile Loam ( 12 "" ) 
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO03,PJ Keating Water Main Repair,1.00,"$ 6,897.62","$ 6,897.62",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO04,"12 "" Fused Relief Drain",1.00,"$ 99,540.00","$ 99,540.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO05,New Remote Riser Line / Changes,1.00,"261,882.11","$ 261,882.11",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO06,E & B Int Plumb / Roof Drain,1.00,"$ 16,629.01","$ 16,629.01",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO08,PJ Keating Pond Outlet Work,1.00,"$ 1,679.00","$ 1,679.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO09,Deduct Hydroseeding ( 440 ),1.00,"$ 18,372.00","- $ 18,372.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO11,Install Additinal Gate Valve,1.00,"$ 3,500.00","$ 3,500.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO12,Repair Column Sleeve,1.00,- $ 399.06,- $ 399.06,2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO13,Updated GPI Left Turn Lane,1.00,"$ 29,015.89","$ 29,015.89",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO14,Ft . Pond Rd Line Stripe / Signs,1.00,"$ 19,835.88","$ 19,835.88",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,C015,Exc Bldg Perimeter Fdn Haunch,1.00,"$ 14,039.00","$ 14,039.00",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO16,Pavement Mark Rem @ Ft Pond,"2,165.00",$ 2.50,"$ 5,412.50",2023-02
+2023-02-15,922334.0,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,C017,Geogrid at Dock Anron,100,$ 55 745 90,$ 55 745 90,2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,,,,2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,5,Erosion Control @ Site,"4,300.00",$ 12.65,"$ 54,395.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,10,Tree Clearing @ Site,1.00,"$ 63,000.00","$ 63,000.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,20,Removal of Trees @ Keating,1.00,"$ 17,396.00","$ 17,396.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,30,Traffic Maint @ Tree Clearing,1.00,"$ 1,200.00","$ 1,200.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,40,Police Details,2.00,$ 440.00,$ 880.00,2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,50,Excavate Test Pits - Keating H2O,1.00,"$ 3,788.00","$ 3,788.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,60,Mobilization,1.00,"$ 12,677.29","$ 12,677.29",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,65,Grubbing,1.00,"$ 49,804.85","$ 49,804.85",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,68,Construction Entrance,2.00,$ 926.53,"$ 1,853.06",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,70,Pulverize Asphalt Parkling,1.00,"$ 5,324.92","$ 5,324.92",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,72,"Strip & Stockpile Loam ( 12 "" ) 
 Excavate & Place Fills","20,000.00",$ 4.65,"$ 93,000.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,75,Excavate & Place Fills,"111,000.00",$ 2.82,"$ 313,020.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,80,"6 "" Sch40 - Mailine Sewer & Manhole 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,75,Excavate & Place Fills,"111,000.00",$ 2.82,"$ 313,020.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,80,"6 "" Sch40 - Mailine Sewer & Manhole 
 Septic Tanks",803.00,$ 107.15,"$ 86,041.45",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,85,Septic,1.00,"$ 50,578.52","$ 50,578.52",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"86 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,85,Septic,1.00,"$ 50,578.52","$ 50,578.52",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"86 
 87","Pump Chamber Tank # 1/1 HP Pump 
 Dosing Chamber Tank / 3HP Pumps",1.00,"$ 19,216.13","$ 19,216.13",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,87,"Dosing Chamber Tank / 3HP Pumps 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,87,"Dosing Chamber Tank / 3HP Pumps 
 6 "" Sewer Services",1.00,"$ 55,185.22","$ 55,185.22",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"90 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"90 
 95","6 "" Sewer Services 
 Force Main - 2 """,140.00,$ 35.34,"$ 4,947.60",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,95,,"850.00 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,95,,"850.00 
 400.00",$ 25.25,"$ 21,462.50",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,96,"Force Main - 4 "" to Septic Syst",400.00,$ 28.96,"$ 11,584.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"98 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,96,"Force Main - 4 "" to Septic Syst",400.00,$ 28.96,"$ 11,584.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"98 
 99","Presby - Septic Systems & Sand 
 Valve Pit Manhole - 5 ' Dia",1.00,"249,860.15","$ 249,860.15",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,100,Cleanout Manhole,"1.00 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,100,Cleanout Manhole,"1.00 
 1.00","$ 6,798.94","$ 6,798.94",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,100,,1.00,"$ 7,288.20","$ 7,288.20",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"105 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,100,,1.00,"$ 7,288.20","$ 7,288.20",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"105 
 110","8 "" Dia Water Main 
 Service Lines - Fire & Domestic",1.00,"264,315.78 
 13,227.57","$ 264,315.78",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,110,/ Bollrd,"1.00 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,110,/ Bollrd,"1.00 
 7.00","$ 13,227.57","$ 13,227.57",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"120 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"120 
 125","Hydrant / 6 "" Lateral / Gate / Bollrd 
 Rel Keating Water Line / Gate","7.00 
 1,650.00","$ 7,594.57","$ 53,161.99",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,Drainage Pipe & Manholes,"1,650.00",$ 112.99,"$ 186,433.50",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,130,Drainage Pipe & Manholes,1.00,"466,895.53 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,Drainage Pipe & Manholes,"1,650.00",$ 112.99,"$ 186,433.50",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,130,Drainage Pipe & Manholes,1.00,"466,895.53 
 28,446.02","$ 466,895.53 
 $ 170,676.12",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"135 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"135 
 140","Wate Quality Units - Hydroworks 
 Catch Basins & Double CB's","6.00 
 35.00","$ 28,446.02","$ 170,676.12",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,150,Drain Underground Storage Syst,,"$ 4,389.44","$ 153,630.40",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"150 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,150,Drain Underground Storage Syst,,"$ 4,389.44","$ 153,630.40",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"150 
 200","Drain Underground Storage Syst 
 Exc / Subgrade / Backfill Building","1.00 
 1.00","502,887.41 
 148,992.29","$ 502,887.41 
 $ 148,992.29",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,210,F & I Gravel Base ( 12,"14,000.00",,,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,210,"F & I Gravel Base ( 12 "" ) - Building","14,000.00","$ 34.57 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,210,F & I Gravel Base ( 12,"14,000.00",,,2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,210,"F & I Gravel Base ( 12 "" ) - Building","14,000.00","$ 34.57 
 11.97","$ 483,980.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,220,"F & I Gravel Base ( 12 "" ) - Load Bay","7,700.00 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,220,"F & I Gravel Base ( 12 "" ) - Load Bay","7,700.00 
 1.00",$ 11.97,"$ 92,169.00 
 $ 455,446.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,"230 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,"230 
 200","F & I Roadway Base ( 12 "" HD / 8 "" LD ) 
 E & R Coe Sanvira & Sandi","1.00 
 950.00","455,446.00 
 11 12","$ 455,446.00 
 SO 452 00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,,,,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,310,E & B & Pour - Primary Electric,"1,170.00",$ 54.04,"$ 63,226.80",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,400,Prep Binder & Fine Grade,"43,000.00",$ 1.32,"$ 56,760.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,420,Gravel Prep Concrete Walks,"10,500.00",$ 2.92,"$ 30,660.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,430,Exc Mod Block Walls & Stone,"2,180.00",$ 7.15,"$ 15,587.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,440,Screen / ReSpread Loam / Hydroseed,"4,500.00",$ 31.13,"$ 140,085.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,450,Inf Basin # 1 & Access Road,1.00,"$ 67,057.24","$ 67,057.24",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,455,Inf Basin # 2,1.00,"163,694.96","$ 163,694.96",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,460,Berm Shaping,1.00,"$ 8,968.68","$ 8,968.68",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,550,F & I Light Bases,37.00,"$ 2,268.29","$ 83,926.73",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,560,E & B Site Lighting w / Sand,"4,580.00",$ 8.37,"$ 38,334.60",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,600,Roadway Widening - Headwall / Curb,1.00,"$ 58,963.45","$ 58,963.45",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,720,Base Orange - Exc / Recompact,"29,500.00",$ 3.81,"$ 112,395.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,730,Base Blue - Exc / Recompact,"21,000.00",$ 3.86,"$ 81,060.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,740,Base Purple / Exc & Jaw Crush,"25,600.00",$ 12.85,"$ 328,960.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,750,Alt - Purple - Exc & Refill,"33,900.00",$ 2.94,"$ 99,666.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,760,Alt - Green - Exc & Refill,"68,000.00",$ 2.95,"$ 200,600.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,1010,"Turnkey @ Widening Paving - 4 """,1.00,"$ 23,375.88","$ 23,375.88",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,1070,Backfill Dock Pits,71.00,$ 228.86,"$ 16,249.06",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,1100,Unclassified Excavation,1.00,"215,000.00","$ 215,000.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,,,"5,935,139.82",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,,,"5,935,139.82",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO02,F & I Geo Fabric @Parking Lot,"22,500.00",$ 0.70,"$ 15,750.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO03,PJ Keating Water Main Repair,1.00,"$ 6,897.62","$ 6,897.62",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO04,"12 "" Fused Relief Drain",1.00,"$ 99,540.00","$ 99,540.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO05,New Remote Riser Line / Changes,1.00,"261,882.11","$ 261,882.11",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO06,E & B Int Plumb / Roof Drain,1.00,"$ 16,629.01","$ 16,629.01",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO08,PJ Keating Pond Outlet Work,1.00,"$ 1,679.00","$ 1,679.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,C009,Deduct Hydroseeding ( 440 ),1.00,"$ 18,372.00","- $ 18,372.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO11,Install Additinal Gate Valve,1.00,"$ 3,500.00","$ 3,500.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO12,Repair Column Sleeve,1.00,- $ 399.06,- $ 399.06,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO13,Updated GPI Left Tum Lane,1.00,"$ 29,015.89","$ 29,015.89",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO14,Ft . Pond Rd Line Stripe / Signs,1.00,"$ 19,835.88","$ 19,835.88",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO15,Exc Bldg Perimeter Fdn Haunch,1.00,"$ 14,039.00","$ 14,039.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,CO16,Pavement Mark Rem @ Ft Pond,"2,165.00",$ 2.50,"$ 5,412.50",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,C017,Geogrid at Dock Anron,100,$ 55 745 90,$ 55 745 90,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,,,,,,,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO18,Summit GeoEngineering Inspect,1.00,"$ 5,355.00","$ 5,355.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO24,Settlement Agreement,1.00,"400,000.00","$ 400,000.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO07A,Mobilization,1.00,"$ 2,000.00","$ 2,000.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO07B,Fine Grading - Spread Loam,1.00,"$ 55,712.00","$ 55,712.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,"CO07B 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,,,,2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,310,E & B & Pour - Primary Electric,"1,170.00",$ 54.04,"$ 63,226.80",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,400,Prep Binder & Fine Grade,"43,000.00",$ 1.32,"$ 56,760.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,420,Gravel Prep Concrete Walks,"10,500.00",$ 2.92,"$ 30,660.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,430,Exc Mod Block Walls & Stone,"2,180.00",$ 7.15,"$ 15,587.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,440,Screen / ReSpread Loam / Hydroseed,"4,500.00",$ 31.13,"$ 140,085.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,450,Inf Basin # 1 & Access Road,1.00,"$ 67,057.24","$ 67,057.24",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,455,Inf Basin # 2,1.00,"163,694.96","$ 163,694.96",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,460,Berm Shaping,1.00,"$ 8,968.68","$ 8,968.68",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,550,F & I Light Bases,37.00,"$ 2,268.29","$ 83,926.73",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,560,E & B Site Lighting w / Sand,"4,580.00",$ 8.37,"$ 38,334.60",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,600,Roadway Widening - Headwall / Curb,1.00,"$ 58,963.45","$ 58,963.45",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,720,Base Orange - Exc / Recompact,"29,500.00",$ 3.81,"$ 112,395.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,730,Base Blue - Exc / Recompact,"21,000.00",$ 3.86,"$ 81,060.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,740,Base Purple / Exc & Jaw Crush,"25,600.00",$ 12.85,"$ 328,960.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,750,Alt - Purple - Exc & Refill,"33,900.00",$ 2.94,"$ 99,666.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,760,Alt - Green - Exc & Refill,"68,000.00",$ 2.95,"$ 200,600.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,1010,"Turnkey @ Widening Paving - 4 """,1.00,"$ 23,375.88","$ 23,375.88",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,1070,Backfill Dock Pits,71.00,$ 228.86,"$ 16,249.06",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,1100,Unclassified Excavation,1.00,"215,000.00","$ 215,000.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,,,"5,935,139.82",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,,,"5,935,139.82",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO02,F & I Geo Fabric @Parking Lot,"22,500.00",$ 0.70,"$ 15,750.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO03,PJ Keating Water Main Repair,1.00,"$ 6,897.62","$ 6,897.62",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO04,"12 "" Fused Relief Drain",1.00,"$ 99,540.00","$ 99,540.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO05,New Remote Riser Line / Changes,1.00,"261,882.11","$ 261,882.11",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO06,E & B Int Plumb / Roof Drain,1.00,"$ 16,629.01","$ 16,629.01",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO08,PJ Keating Pond Outlet Work,1.00,"$ 1,679.00","$ 1,679.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,C009,Deduct Hydroseeding ( 440 ),1.00,"$ 18,372.00","- $ 18,372.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO11,Install Additinal Gate Valve,1.00,"$ 3,500.00","$ 3,500.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO12,Repair Column Sleeve,1.00,- $ 399.06,- $ 399.06,2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO13,Updated GPI Left Tum Lane,1.00,"$ 29,015.89","$ 29,015.89",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO14,Ft . Pond Rd Line Stripe / Signs,1.00,"$ 19,835.88","$ 19,835.88",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO15,Exc Bldg Perimeter Fdn Haunch,1.00,"$ 14,039.00","$ 14,039.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,CO16,Pavement Mark Rem @ Ft Pond,"2,165.00",$ 2.50,"$ 5,412.50",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,C017,Geogrid at Dock Anron,100,$ 55 745 90,$ 55 745 90,2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec Wa,Onyx Corporation,,,,,,2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO18,Summit GeoEngineering Inspect,1.00,"$ 5,355.00","$ 5,355.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO24,Settlement Agreement,1.00,"400,000.00","$ 400,000.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO07A,Mobilization,1.00,"$ 2,000.00","$ 2,000.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO07B,Fine Grading - Spread Loam,1.00,"$ 55,712.00","$ 55,712.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,"CO07B 
 C007C","F & I Deciduous Trees - 2 "" Caliper",40.00,$ 450.00,"$ 18,000.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO07D,"F & I Shrubs - 18-24 "" Ht",316.00,$ 64.00,"$ 20,224.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO07E,F & I Perennials- 1 Gallon,"1,000.00",$ 27.00,"$ 27,000.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO07F,Mulch New Plantings,1.00,"$ 13,277.00","$ 13,277.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,"CO07F 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO07D,"F & I Shrubs - 18-24 "" Ht",316.00,$ 64.00,"$ 20,224.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO07E,F & I Perennials- 1 Gallon,"1,000.00",$ 27.00,"$ 27,000.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO07F,Mulch New Plantings,1.00,"$ 13,277.00","$ 13,277.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,"CO07F 
 CO07G","Hydroseed Lawn Areas - 300,000SF",1.00,"$ 49,500.00","$ 49,500.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO07G,"Fuse & Install 12 "" HDPE Relief",180.00,$ 77.11,"$ 13,879.80",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO10A,"Fuse 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO07G,"Fuse & Install 12 "" HDPE Relief",180.00,$ 77.11,"$ 13,879.80",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO10A,"Fuse 
 / RepL Rubble Fills MH2",220.00,$ 291.10,"$ 64,042.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,"CO10B 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,"CO10B 
 CO10C","Crush / RepL 
 Manholes # 1 & 2",2.00,"$ 4,816.86","$ 9,633.72",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO10C,Manholes,2.00,"$ 2,753.37","$ 5,506.74",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO10D,"Cleanout Manholes 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO10C,Manholes,2.00,"$ 2,753.37","$ 5,506.74",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO10D,"Cleanout Manholes 
 Fill - Curtain D",80.00,$ 417.81,"$ 33,424.80",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO10E,"Crush / Repl Rubb Fill 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO10E,"Crush / Repl Rubb Fill 
 Curtain Drain",330.00,$ 313.20,"$ 103,356.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO10F,Fence,1.00,"$ 4,000.00","$ 4,000.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO10G,Clearing & Silt Fence,1.00,"$ 7,528.50","$ 7,528.50",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO19A,"Revised Testing Costs 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO10F,Fence,1.00,"$ 4,000.00","$ 4,000.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO10G,Clearing & Silt Fence,1.00,"$ 7,528.50","$ 7,528.50",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO19A,"Revised Testing Costs 
 10/23/22",1.00,"$ 2,596.36","$ 2,596.36",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO19B,Submitted on,1.00,"$ 3,214.50","$ 3,214.50",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO19C,Additional 30 LF,1.00,"$ 20,607.94","$ 20,607.94",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO19D,Line Striping & Signs @ Park L,"1.00 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO19B,Submitted on,1.00,"$ 3,214.50","$ 3,214.50",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO19C,Additional 30 LF,1.00,"$ 20,607.94","$ 20,607.94",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO19D,Line Striping & Signs @ Park L,"1.00 
 1.00","$ 8,741.69","$ 8,741.69",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO19E,Addt ' ! Signs - Leominster - Shirle,1.00,"$ 6,132.00","$ 6,132.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO19F,Remove & Reset Exist Hydrant,"1.00 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO19E,Addt ' ! Signs - Leominster - Shirle,1.00,"$ 6,132.00","$ 6,132.00",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO19F,Remove & Reset Exist Hydrant,"1.00 
 1.00","$ 
 $ 12,935.06","$ 12,935.06",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO19G,"Addtl Depth for "" Bench "" Exc",1.00,"15,525.80","$ 15,525.80",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO19H,Exc & Prep Landing Gear Areas,1.00,"$ 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO19G,"Addtl Depth for "" Bench "" Exc",1.00,"15,525.80","$ 15,525.80",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO19H,Exc & Prep Landing Gear Areas,1.00,"$ 
 $ 1,034.00","$ 1,034.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO20A,Generator Gas Trenching,1.00,"$ 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO20A,Generator Gas Trenching,1.00,"$ 
 14,012.25","$ 
 $ 14,012.25",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO20B,Monolithic Curb Prep,"1.00 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO20B,Monolithic Curb Prep,"1.00 
 1.00","$ 
 28,022.80","$ 
 $ 28,022.80",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO20C,Granite Curbing,1.00,"$ 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO20C,Granite Curbing,1.00,"$ 
 10,662.00","$ 10,662.00",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO20D,Mill & Shim,1.00,"$ 10,662.00 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO20D,Mill & Shim,1.00,"$ 10,662.00 
 $ 804.00",$ 804.00,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO20E,E & B Monument Sign,1.00,$,"$ 804.00 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO20E,E & B Monument Sign,1.00,$,"$ 804.00 
 $ 3,537.60",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO20F,Downspout Splash Pads,1.00,"$ 3,537.60 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO20F,Downspout Splash Pads,1.00,"$ 3,537.60 
 2,747.73","$ 3,537.60 
 2,747.73",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO20G,Transformer Bollards,1.00,"$ 2,747.73","$ 2,747.73",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO20H,Rip - Rap,1.00,"$ 17,996.50","$ 17,996.50 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO20G,Transformer Bollards,1.00,"$ 2,747.73","$ 2,747.73",2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO20H,Rip - Rap,1.00,"$ 17,996.50","$ 17,996.50 
 3,442.63",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO21A,Interior Sanitary Repair,1.00,"$ 3,442.63",$,2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO21B,Addt'l Fire Loop Gate Valve,1.00,"$ 1,715.57 
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO21A,Interior Sanitary Repair,1.00,"$ 3,442.63",$,2023-02
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO21B,Addt'l Fire Loop Gate Valve,1.00,"$ 1,715.57 
 77 986 05","$ 1,715.57 
 $ 77 996 06",2023-02
-2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO2A,Brid Work Intarinr Prurhack,100,$,,2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,,,,,,2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO22B,,1.0,,$,2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO23A,,1.0,,$,2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO23B,"Description
+2023-02-25,,,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO2A,Brid Work Intarinr Prurhack,100,$,,2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,,,,,,2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO22B,,1.0,,$,2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO23A,,1.0,,$,2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO23B,"Description
 Stripping for Trailer Parking
 Reshape Rear Slope / Hydroseed
 West Driveway Repair / Subdrain
@@ -421,9 +417,9 @@ Interior Electrical Trenching
 Casting Bed Prep & Removal
 Addt'l Handicap Parking
 North Sidewalk Regrading",1.0,"$ 20,402.87","$ 20,402.87",2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO25A,,1.0,"$ 1,609.00",$,2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO25B,,1.0,"$ 11,621.00",,2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,CO26C,,1.0,"$ 10,000.00","$ 10,000.00",2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,025D,,1.0,"$ 12,471.82",$,2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,D025E,,1.0,,$,2023-02
-2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,,O,Totals,1.0,"7,665,728.95","146,974.94",2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO25A,,1.0,"$ 1,609.00",$,2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO25B,,1.0,"$ 11,621.00",,2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,CO26C,,1.0,"$ 10,000.00","$ 10,000.00",2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,025D,,1.0,"$ 12,471.82",$,2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,D025E,,1.0,,$,2023-02
+2023-02-25,922342.0,1730589.13,EX - 21-0013 / ARCO - Lunenburg Spec We,Onyx Corporation,O,Totals,1.0,"7,665,728.95","146,974.94",2023-02
