@@ -82,3 +82,4 @@ if not monthly_totals_df.empty and not combined_data_df.empty:
         st.error("The 'Month' column is not present in the combined data.")
 else:
     st.error('Data not available for the selected supplier.')
+#Comment
